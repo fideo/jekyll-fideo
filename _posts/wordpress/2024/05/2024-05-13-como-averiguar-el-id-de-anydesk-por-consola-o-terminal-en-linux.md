@@ -24,10 +24,9 @@ Como averiguar el id de AnyDesk por consola o terminal en linux. Si por casulida
 Claro si accedes por consola o terminal a tu equipo podrías decir para que si ya tengo conexión con mi computadora a través de mi linea de comandos si puede ser… pero muchas veces necesitas ver o acceder visualmente a tu computadora y esto lo podes hacer con AnyDesk o un servicio de VNC activo en la computadora. Si tu caso es el de AnyDesk y no conoces el id lo podes averiguar con este comando.
 
 ```
-<pre class="wp-block-code">```
 anydesk --get-id
 ```
-```
+
 
 Esto te devolverá un número que luego con el cliente de AnyDesk podrás acceder remotamente a tu computadora.
 

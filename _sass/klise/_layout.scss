@@ -11,6 +11,14 @@
   @extend %clearfix;
 }
 
+// Logo
+.logo {
+  @include media-query($on-mobile) {
+    display: none;
+  }
+  padding-left: 10px;
+}
+
 // Navigation
 .menu {
   user-select: none;

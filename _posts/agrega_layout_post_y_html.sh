@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Ruta del directorio donde están los archivos .md
-DIRECTORIO="./wordpress/"
+DIRECTORIO="./wordpress"
 
 # Función recursiva para procesar archivos .md
 procesar_directorio() {
@@ -14,10 +14,18 @@ procesar_directorio() {
     elif [ -f "$item" ] && [[ "$item" == *.md ]]; then
       # Si es un archivo .md, procesarlo
 
-      # Agregar layout: post dentro de ---
-      if ! grep -q "layout: post" "$item"; then
+      # Verificar si el archivo contiene un bloque de configuración ---
+      if grep -q "^---$" "$item"; then
+        # Asegurarse de que 'layout: post' está presente dentro de ---
+        if ! awk '/^---$/ {i++} i==1 && /layout: post/ {found=1} END {exit !found}' "$item"; then
+          # Agregar 'layout: post' después de la primera línea ---
+          sed -i '/^---$/!b;n;/^---$/!i layout: post' "$item"
+          echo "Se agregó 'layout: post' en $item"
+        fi
+      else
+        # Si no hay un bloque de configuración, agregar uno
         sed -i '1s/^/---\nlayout: post\n---\n/' "$item"
-        echo "Se agregó 'layout: post' en $item"
+        echo "Se creó un bloque con 'layout: post' en $item"
       fi
 
       # Modificar el valor de permalink: para agregar .html
@@ -31,3 +39,4 @@ procesar_directorio() {
 
 # Llamar a la función inicial con el directorio raíz
 procesar_directorio "$DIRECTORIO"
+

@@ -1,7 +1,7 @@
 # Parametros que no pueden cambiarse de github pages
 lsi: false
 safe: true
-source: https://fideo.github.io
+source: https://fideo.github.io/jekyll-fideo/
 incremental: false
 gist:
   noscript: false

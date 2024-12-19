@@ -1,7 +1,7 @@
 # Parametros que no pueden cambiarse de github pages
 lsi: false
 safe: true
-# source: https://fideo.github.io/jekyll-fideo/
+source: https://fideo.github.io/jekyll-fideo/
 incremental: false
 gist:
   noscript: false
@@ -73,7 +73,7 @@ jekyll_compose:
 number_of_posts: 5
 
 # Build settings
-# theme: klise
+theme: klise
 sass:
   style: compressed
 

@@ -22,7 +22,7 @@ footnotes:
 Para borrar el contenido de un tag con vim solo necesitamos usar o presionar tres teclas
 
 ```
-<pre class="wp-block-preformatted">dit
+dit
 ```
 
 la “d” de delete  
@@ -40,10 +40,10 @@ El comando es muy similar solo debemos cambiar la última tecla a utilizar antes
 Por ejemplo si tenemos este contenido
 
 ```
-<pre class="wp-block-preformatted"><?php get_template_part( 'template-parts/content', 'single' ); ?>
+<?php get_template_part( 'template-parts/content', 'single' ); ?>
 ```
 
-solo debemos posicionarnos dentro de las comillas simples **‘ ‘** y presionar las teclas **d + i + ‘** con esto borramos el contenido de lo que encierra la comilla simple
+Solo debemos posicionarnos dentro de las comillas simples **' '** y presionar las teclas **d + i + '** con esto borramos el contenido de lo que encierra la comilla simple.
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="281" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/Yn8Wsb-Vkjo?feature=oembed" title="Vim - Borrar el contenido de un tag con vim" width="500"></iframe></div></figure>[Si te gustó **Borrar el contenido de un tag con vim** podes visitar mas post sobre vim acá](http://federicomazzei.com.ar/blog/tag/vim/)
 

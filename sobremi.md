@@ -20,7 +20,7 @@ comments: false
   <div style="flex: 8; padding-left: 1em;">
     <ul>
         <li>Fecha de Nacimiento: 2 Diciembre 1973</li>
-        <li>Website: federicomazzei.com.ar ó fideo.dev.ar</li>
+        <li>Website: <a href="https://federicomazzei.com.ar" target="_blank">federicomazzei.com.ar</a> ó <a href="https://fideox.dev.ar" target="_blank"> fideo.dev.ar</a></li>
         <li>Celular: +54 9 11 2630 1170</li>
         <li>Ciudad: 3 de Febrero, Bs. As., Argentina</li>
         <li>Edad: 51</li>

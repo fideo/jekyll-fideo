@@ -1,7 +1,7 @@
 # Parametros que no pueden cambiarse de github pages
 lsi: false
 safe: true
-source: https://fideo.github.io/jekyll-fideo/
+# source: https://fideo.github.io/jekyll-fideo/
 incremental: false
 gist:
   noscript: false
@@ -30,7 +30,7 @@ author:
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
 # URL settings
-url: ${{steps.deployment.outputs.page_url}} #
+url: https://fideo.github.io/jekyll-fideo/ #
 baseurl:
 permalink: /:title/
 google_analytics: # leave it blank if not wish

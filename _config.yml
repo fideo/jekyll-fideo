@@ -30,7 +30,7 @@ author:
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
 # URL settings
-url: "https://fideo.github.io/jekyll-fideo/" #
+url: ${{steps.deployment.outputs.page_url}} #
 baseurl:
 permalink: /:title/
 google_analytics: # leave it blank if not wish

@@ -31,21 +31,16 @@ Me ha pasado que he instalado debian 12 y la notebook donde lo instalé no se si
 Me puse a investigar como solucionarlo y encontré que con este comando se puede ver si está activa la sincronización.
 
 ```
-<pre class="wp-block-code">
 sudo timedatectl status
-</pre>
 ```
-```
+
 
 si te dice System clock synchronized: no eso quiere decir que no se va a sincronizar automáticamente.
 
 Para cambiar a System clock synchronized: yes lo que se debe hacer o al menos lo que yo hice para me funcionara es instalar systemd-syncd
 
 ```
-<pre class="wp-block-code">
 sudo apt install systemd-timesyncd
-</pre>
-```
 ```
 
 Luego de instalar este comando volví a consultar con el comando `sudo timedatectl` status y obtuve como respuesta el System clock synchronized: yes

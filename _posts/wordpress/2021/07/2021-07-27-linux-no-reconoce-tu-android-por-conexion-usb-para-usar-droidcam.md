@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Linux no reconoce tu android por conexión USB para usar Droidcam'
 date: '2021-07-27T19:40:12-03:00'
 status: publish
-permalink: /2021/07/linux-no-reconoce-tu-android-por-conexion-usb-para-usar-droidcam
+permalink: /2021/07/linux-no-reconoce-tu-android-por-conexion-usb-para-usar-droidcam.html
 author: fideo
 excerpt: ''
 type: post
@@ -20,6 +21,7 @@ tag:
     - webcam
 post_format: []
 ---
+layout: post
 Si tener un celular (dispositivo móvil) con Android y queres usar la cámara de ese celular como webcam podes usar un programa que se llama [Droidcam](https://www.dev47apps.com/), es muy buena opción para no comprar una webcam y usa ese dispositivo viejo que tenías en un cajón.
 
 Este artículo trae una solución a un problema frecuente que se dá cuando usas linux, el problema se presenta que no siempre reconoce las conexiones por USB.

@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Sincronizar Google Calendar con Nokia N96'
 date: '2009-10-08T13:00:37-03:00'
 status: publish
-permalink: /2009/10/sincronizar-google-calendar-con-nokia-n96
+permalink: /2009/10/sincronizar-google-calendar-con-nokia-n96.html
 author: fideo
 excerpt: ''
 type: post
@@ -12,6 +13,7 @@ category:
 tag: []
 post_format: []
 ---
+layout: post
 ![](https://www.goosync.com/images/goosync_logo.jpg "GooSync ")<span style="text-decoration: line-through;">Hola gente hace un tiempo que quería sincronizar mi N96 con Google Calendar después de buscar y buscar encontré un site que tiene dos modalidades; la opción paga y la gratis, como todo buen ratón eligo la opción gratis.</span>
 
 <span style="text-decoration: line-through;">Te registras, obtenes los datos para sincronizar con tu cuenta y listo.</span>

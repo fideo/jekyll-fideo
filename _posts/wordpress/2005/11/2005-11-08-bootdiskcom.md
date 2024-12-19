@@ -1,8 +1,9 @@
 ---
+layout: post
 title: Bootdisk.com
 date: '2005-11-08T23:35:52-03:00'
 status: publish
-permalink: /2005/11/bootdiskcom
+permalink: /2005/11/bootdiskcom.html
 author: fideo
 excerpt: ''
 type: post
@@ -12,6 +13,7 @@ category:
 tag: []
 post_format: []
 ---
+layout: post
 Muy buen site para cuando necesitas butear en ese sistema que se llama D.O.S (?te acordas de ese sistema operativo?).  
 Aparte de generarte un booteable para D.O.S. tiene otros discos de arranques m?s.  
 *Enjoy!!!*

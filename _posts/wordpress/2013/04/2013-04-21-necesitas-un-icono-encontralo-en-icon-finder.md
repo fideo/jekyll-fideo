@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Necesitas un icono encontralo en Icon Finder'
 date: '2013-04-21T12:26:45-03:00'
 status: publish
-permalink: /2013/04/necesitas-un-icono-encontralo-en-icon-finder
+permalink: /2013/04/necesitas-un-icono-encontralo-en-icon-finder.html
 author: fideo
 excerpt: ''
 type: post
@@ -12,6 +13,7 @@ category:
 tag: []
 post_format: []
 ---
+layout: post
 Iconfinder
 ----------
 

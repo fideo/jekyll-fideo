@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Crear un listado de directorios o carpetas desde la consola de linux'
 date: '2021-08-09T09:49:14-03:00'
 status: publish
-permalink: /2021/08/crear-un-listado-de-directorios-o-carpetas-desde-la-consola-de-linux
+permalink: /2021/08/crear-un-listado-de-directorios-o-carpetas-desde-la-consola-de-linux.html
 author: fideo
 excerpt: 'Dos opciones para realizar una estructura de directorios o carpetas en forma de árbol.'
 type: post
@@ -17,6 +18,7 @@ tag:
     - ubuntu
 post_format: []
 ---
+layout: post
 Tal vez te encuentres con la necesidad de tener que armar una lista de directorios o carpetas, de tu sistema linux, acá te dejo un comando que te permite realizar ese proceso.
 
 ```

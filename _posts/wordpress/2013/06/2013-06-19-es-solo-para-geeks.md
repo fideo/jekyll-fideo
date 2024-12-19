@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Es solo para geeks'
 date: '2013-06-19T10:11:32-03:00'
 status: publish
-permalink: /2013/06/es-solo-para-geeks
+permalink: /2013/06/es-solo-para-geeks.html
 author: fideo
 excerpt: ''
 type: post
@@ -12,6 +13,7 @@ category:
 tag: []
 post_format: []
 ---
+layout: post
 Este gif animado es solo para entendidos.
 -----------------------------------------
 

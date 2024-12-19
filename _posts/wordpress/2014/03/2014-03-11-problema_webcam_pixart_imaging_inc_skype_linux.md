@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Problema con la Webcam Pixart Imaging Inc y Skype en Linux'
 date: '2014-03-11T21:10:14-03:00'
 status: publish
-permalink: /2014/03/problema_webcam_pixart_imaging_inc_skype_linux
+permalink: /2014/03/problema_webcam_pixart_imaging_inc_skype_linux.html
 author: fideo
 excerpt: 'Corregir el problema que tiene skype en linux con la webcam Pixart Imaging, Inc que no funciona.'
 type: post
@@ -12,6 +13,7 @@ category:
 tag: []
 post_format: []
 ---
+layout: post
 Para los que usan la **Webcam Pixart Imaging en linux** y están hinchados las bolas de googlear y googlear para hacer funcionar la webcam **Pixart Imaging Inc** acá les dejo una linea para que la ejecuten en su consola; acto seguido se les va abrir directamente **Skype.**
 
 ```

@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Mejor no hablar (de ciertas cosas) (Autor: Indio Solari) &#8211; 5:30'
 date: '2010-08-10T01:13:21-03:00'
 status: publish
-permalink: /2010/08/mejor-no-hablar-de-ciertas-cosas-autor-indio-solari-530
+permalink: /2010/08/mejor-no-hablar-de-ciertas-cosas-autor-indio-solari-530.html
 author: fideo
 excerpt: ''
 type: post
@@ -12,6 +13,7 @@ category:
 tag: []
 post_format: []
 ---
+layout: post
 Leyendo algo de historia de Sumo en la Wikipedia me enteré de que una de mis canciones preferidas de Sumo no la escribió Luca George Prodan sino Carlos Alberto Solari o mas conocido como el Indio Solari.
 
 Ambos grupos acompañaron mi adolescencia y la de muchos Argentinos, dejándonos joyas del rock como esta canción, les y me dejo la letra para tenerla siempre presente y a mano.

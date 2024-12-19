@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Canción de cuna &#8211; Los piojos'
 date: '2008-02-07T14:28:22-03:00'
 status: publish
-permalink: /2008/02/cancion-de-cuna-los-piojos
+permalink: /2008/02/cancion-de-cuna-los-piojos.html
 author: fideo
 excerpt: ''
 type: post
@@ -15,6 +16,7 @@ post_format: []
 footnotes:
     - ''
 ---
+layout: post
 Quiero que te duermas como un sol  
 Que se acuesta en un campo de trigo  
 Tengo aquí en mi pecho un corazón  

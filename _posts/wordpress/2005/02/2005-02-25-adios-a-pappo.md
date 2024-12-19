@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Adios a PAPPO'
 date: '2005-02-25T10:50:32-03:00'
 status: publish
-permalink: /2005/02/adios-a-pappo
+permalink: /2005/02/adios-a-pappo.html
 author: fideo
 excerpt: ''
 type: post
@@ -12,6 +13,7 @@ category:
 tag: []
 post_format: []
 ---
+layout: post
 `Noticia obtenida de La Nación (25 de febreo del 2005)`
 
 Trágica muerte de Pappo

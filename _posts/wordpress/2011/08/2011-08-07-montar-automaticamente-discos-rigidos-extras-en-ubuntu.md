@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Montar automáticamente discos rígidos extras en ubuntu'
 date: '2011-08-07T14:46:23-03:00'
 status: publish
-permalink: /2011/08/montar-automaticamente-discos-rigidos-extras-en-ubuntu
+permalink: /2011/08/montar-automaticamente-discos-rigidos-extras-en-ubuntu.html
 author: fideo
 excerpt: ''
 type: post
@@ -12,6 +13,7 @@ category:
 tag: []
 post_format: []
 ---
+layout: post
 <font style="position: absolute;overflow: hidden;height: 0;width: 0">[Православни икони](http://xn--h1aafme.net/tag/%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%BD%D0%B8-%D0%B8%D0%BA%D0%BE%D0%BD%D0%B8/)</font>Cuando tenemos mas de un disco rígido en nuestro pc y tenemos instalado ubuntu en mi caso en este momento Ubuntu 11,04 podemos hacer los siguiente para poder montar los disco automáticamente.
 
 Primero abrimos gparted y elegimos el disco a montar, sobre ese disco hacemos botón derecho y elegimos la opción “información” y nos mostrará una ventana similar a esta.  

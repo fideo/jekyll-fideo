@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'VIM YouCompleteMe'
 date: '2023-03-24T16:55:25-03:00'
 status: publish
-permalink: /2023/03/vim-youcompleteme
+permalink: /2023/03/vim-youcompleteme.html
 author: fideo
 excerpt: ''
 type: post
@@ -18,6 +19,7 @@ tag:
     - vim
 post_format: []
 ---
+layout: post
 Si te aparece este mensaje dentro de tu editor VIM  
   
 ***The ycmd server SHUT DOWN (restart with ‘:YcmRestartServer’). YCM core library not dete…; you need to compile YCM before using it. Follow the instructions in the documentation.***   

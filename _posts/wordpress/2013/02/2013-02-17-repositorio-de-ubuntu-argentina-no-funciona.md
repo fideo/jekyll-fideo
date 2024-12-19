@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Repositorio de Ubuntu Argentina no funciona'
 date: '2013-02-17T11:14:24-03:00'
 status: publish
-permalink: /2013/02/repositorio-de-ubuntu-argentina-no-funciona
+permalink: /2013/02/repositorio-de-ubuntu-argentina-no-funciona.html
 author: fideo
 excerpt: 'Que hacer para poder actualizar ubuntu si el servidor de ubuntu argentina no funciona.'
 type: post
@@ -12,6 +13,7 @@ category:
 tag: []
 post_format: []
 ---
+layout: post
 Tal vez experimentaste alguna vez que al queres actualizar algo de tu ubuntu no te funciona. Eso puede deberse por varios motivos y puede pasar muy rara vez, pero puede pasar.  
 Si esto ocurre lo que te recomiendo que hagas en los siguiente, que vayas a tu centro de software ubuntu una vez dentro presionar sobre editar y elegir la opción Origenes de Software.  
 Se abrirá una nueva ventana similar a la de aquí abajo y debemos seleccionar donde dice Descargar desde, seleccionar Servidor principal.

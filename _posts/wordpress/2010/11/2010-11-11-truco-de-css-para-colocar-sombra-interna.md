@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Truco de CSS para colocar sombra interna'
 date: '2010-11-11T21:55:55-03:00'
 status: publish
-permalink: /2010/11/truco-de-css-para-colocar-sombra-interna
+permalink: /2010/11/truco-de-css-para-colocar-sombra-interna.html
 author: fideo
 excerpt: ''
 type: post
@@ -12,6 +13,7 @@ category:
 tag: []
 post_format: []
 ---
+layout: post
 Si bien esto no funciona en todos los navegadores a alguien le puede interesar colocar dentro de un div una sombra interna, ya sea por diseño u otra indole.
 
 Imaginemos que tenemos un contenedor de 800px de ancho por 600px de alto (px = pixel) y a ese contenedor le aplicamos la sombra interna en cuestión, bueno lo único que tienen que hacer es colocar las lineas de código que marco con comentarios.

@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'CUPS forbidden user pass unable to upload'
 date: '2016-08-27T17:29:11-03:00'
 status: publish
-permalink: /2016/08/cups-forbidden-user-pass-unable-to-upload
+permalink: /2016/08/cups-forbidden-user-pass-unable-to-upload.html
 author: fideo
 excerpt: ''
 type: post
@@ -12,6 +13,7 @@ category:
 tag: []
 post_format: []
 ---
+layout: post
 Cuando intentás instalar una impresora en Linux a través de **CUPS** (que significa Common *Unix Printing System*) y te encontrás con errores del tipo
 
 **forbidden unable to upload cupsd.conf file** –&gt; cuando intentás grabar el archivo cupsd.conf

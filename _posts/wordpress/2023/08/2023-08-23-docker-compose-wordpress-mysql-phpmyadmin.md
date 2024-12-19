@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Docker Compose WordPress MySQL PhpMyAdmin'
 date: '2023-08-23T13:08:58-03:00'
 status: publish
-permalink: /2023/08/docker-compose-wordpress-mysql-phpmyadmin
+permalink: /2023/08/docker-compose-wordpress-mysql-phpmyadmin.html
 author: fideo
 excerpt: 'En este post dejo un código de docker compose que te permite levantar un docker con wordpress que usa una base de datos mysql y para poder administrarla usar el phpmyadmin'
 type: post
@@ -18,6 +19,7 @@ post_format: []
 footnotes:
     - ''
 ---
+layout: post
 En este post dejo un código de docker compose que te permite levantar un docker con wordpress que usa una base de datos mysql y para poder administrarla usar el phpmyadmin.
 
 Esto es muy recomendable para aquellos desarrolladores que tienen que estar levantando ambientes de desarrollos con distintas versiones de wordpress ó mysql ya sea para actualizarlas o para probar algo en particular.

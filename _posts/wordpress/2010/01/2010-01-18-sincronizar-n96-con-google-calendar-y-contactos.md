@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Sincronizar N96 con google calendar y contactos'
 date: '2010-01-18T20:48:14-03:00'
 status: publish
-permalink: /2010/01/sincronizar-n96-con-google-calendar-y-contactos
+permalink: /2010/01/sincronizar-n96-con-google-calendar-y-contactos.html
 author: fideo
 excerpt: ''
 type: post
@@ -12,6 +13,7 @@ category:
 tag: []
 post_format: []
 ---
+layout: post
 Hace tiempo quería sincronizar mi celular (N96) con la cuenta de google, uso nucho el calendario y los contactos de esta cuenta. Investigué y navegué mucho por internet buscando una solución para esto, probé muchas pero ninguna me dejó realmente satisfecho.
 
 Cuando me compré el celular lo primero que hice fue instalarle varias aplicaciones de las cuales varias no le di la importancia que se merecía. Mail for Exchange es una aplicación de nokia que te permite sincronisar el celular a travez de internet (wifi) con tu cuenta de gmail (google).

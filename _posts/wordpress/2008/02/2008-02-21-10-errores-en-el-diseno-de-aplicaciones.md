@@ -1,8 +1,9 @@
 ---
+layout: post
 title: '10 errores en el diseño de aplicaciones'
 date: '2008-02-21T12:03:59-03:00'
 status: publish
-permalink: /2008/02/10-errores-en-el-diseno-de-aplicaciones
+permalink: /2008/02/10-errores-en-el-diseno-de-aplicaciones.html
 author: fideo
 excerpt: ''
 type: post
@@ -12,6 +13,7 @@ category:
 tag: []
 post_format: []
 ---
+layout: post
 Esto lo saqué de sentido web me parece muy bueno y también lo publico en mi blog para no olvidarme de esto.
 
 Diez errores que se cometen cuando se diseña una aplicación, un resumen sería el siguiente:

@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Depeche Mode &#8211; Enjoy the silence'
 date: '2007-11-18T14:42:06-03:00'
 status: publish
-permalink: /2007/11/depeche-mode-enjoy-the-silence
+permalink: /2007/11/depeche-mode-enjoy-the-silence.html
 author: fideo
 excerpt: ''
 type: post
@@ -12,6 +13,7 @@ category:
 tag: []
 post_format: []
 ---
+layout: post
 Words like violence  
 Break the silence  
 Come crashing in  

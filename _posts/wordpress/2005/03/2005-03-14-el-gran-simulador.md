@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'El gran simulador'
 date: '2005-03-14T08:13:21-03:00'
 status: publish
-permalink: /2005/03/el-gran-simulador
+permalink: /2005/03/el-gran-simulador.html
 author: fideo
 excerpt: ''
 type: post
@@ -12,6 +13,7 @@ category:
 tag: []
 post_format: []
 ---
+layout: post
 Muchos peces utilizan el camuflaje para pasar desapercibidos ante la vista de los depredadores pero ninguno de ellos logra mimetizarse tan bien como el fant?stico pez esponja.  
   
 ![Pez esponja](http://www.federicomazzei.com.ar/images/wordpress/esponjapez.jpg)  

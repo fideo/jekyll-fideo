@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Instalar paquetes deb desde consola'
 date: '2014-10-22T09:38:11-03:00'
 status: publish
-permalink: /2014/10/instalar-paquetes-deb-desde-consola
+permalink: /2014/10/instalar-paquetes-deb-desde-consola.html
 author: fideo
 excerpt: 'Comando para poder instalar .deb desde consola'
 type: post
@@ -12,6 +13,7 @@ category:
 tag: []
 post_format: []
 ---
+layout: post
 Muchas veces nos vemos obligados a querer **instalar paquetes .deb desde consola** y para esto solo tenemos que escribir esto en la linea de comando o consola
 
 ```

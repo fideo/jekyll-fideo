@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Vendo Bolso Raquetero Marca Wilson para 12 raquetas'
 date: '2010-12-24T15:26:44-03:00'
 status: publish
-permalink: /2010/12/vendo-bolso-wilson-raquetero-para-12-raquetas
+permalink: /2010/12/vendo-bolso-wilson-raquetero-para-12-raquetas.html
 author: fideo
 excerpt: ''
 type: post
@@ -12,6 +13,7 @@ category:
 tag: []
 post_format: []
 ---
+layout: post
 A quien le interese este bolso no teiene mas que comentar. El bolso está nuevo, es usado, pero casi no tiene uso.
 
 Precio: 340 pesos

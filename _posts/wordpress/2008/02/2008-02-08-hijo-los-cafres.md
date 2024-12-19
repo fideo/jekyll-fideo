@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Hijo &#8211; Los Cafres'
 date: '2008-02-08T10:58:31-03:00'
 status: publish
-permalink: /2008/02/hijo-los-cafres
+permalink: /2008/02/hijo-los-cafres.html
 author: fideo
 excerpt: ''
 type: post
@@ -12,6 +13,7 @@ category:
 tag: []
 post_format: []
 ---
+layout: post
 Ohhhh uuhh wooohh oh…
 
 Tus ojitos al querer  

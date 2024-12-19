@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Peligran peces de aguas profundas'
 date: '2006-01-06T14:39:45-03:00'
 status: publish
-permalink: /2006/01/peligran-peces-de-aguas-profundas
+permalink: /2006/01/peligran-peces-de-aguas-profundas.html
 author: fideo
 excerpt: ''
 type: post
@@ -12,6 +13,7 @@ category:
 tag: []
 post_format: []
 ---
+layout: post
 Cient?ficos canadienses explicaron que debido a la pesca indiscriminada y excesiva de arrastre de fondo en el norte del Atl?ntico, muchas especies se han reducido en un 98% en poco m?s de una generaci?n.![pez de agua profunda](http://newsimg.bbc.co.uk/media/images/41182000/jpg/_41182196_roundnosegrenadiernoaa203.jpg "pez de agua profunda")
 
 Esto los coloca en una situaci?n de peligro cr?tico de extinci?n, agregaron.

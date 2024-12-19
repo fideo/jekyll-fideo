@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Realizar backup en mongo con mongodump y mongorestore'
 date: '2020-06-23T11:35:00-03:00'
 status: publish
-permalink: /2020/06/realizar-backup-en-mongo-con-mongodump-y-mongorestore
+permalink: /2020/06/realizar-backup-en-mongo-con-mongodump-y-mongorestore.html
 author: fideo
 excerpt: ''
 type: post
@@ -15,6 +16,7 @@ tag:
     - software
 post_format: []
 ---
+layout: post
 Si necesitas hacer un backup de tu base de datos con mongo este artículo te puede ayudar
 
 <div aria-hidden="true" class="wp-block-spacer" style="height:20px"></div>En el próximo comando realizo un backup de la base de datos llamada gastosmensuales y lo llego al directorio /home/fideo/dumps/ claro que esto puede cambiarse por la dirección que ustedes prefieran /home/user/lugarqueprefieran

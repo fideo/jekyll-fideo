@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'conq repository access denied. access via a deployment key is read-only'
 date: '2014-11-19T12:07:12-03:00'
 status: publish
-permalink: /2014/11/repository-denied-deployment
+permalink: /2014/11/repository-denied-deployment.html
 author: fideo
 excerpt: 'conq repository access denied. access via a deployment key is read-only solución casera pero "creo" que efectiva.'
 type: post
@@ -12,6 +13,7 @@ category:
 tag: []
 post_format: []
 ---
+layout: post
 Si alguna vez se toparon con este mensaje “*conq repository access denied. access via a deployment key is read-only*” dentro de **bitbucket** lo que les recomiendo es que borren el repositorio y lo vuelvan a crear.  
 Se que no es una solución muy ortodoxa pero es la que me solucionó el problema; después buscar y probar varias formas de solucionarlo en google intenté hacer esto y me funcionó.
 

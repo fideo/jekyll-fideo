@@ -1,8 +1,9 @@
 ---
+layout: post
 title: '¿Que debo ejecutar para saber si mi linux es de 32 Bits o de 64 Bits?'
 date: '2020-06-09T07:00:00-03:00'
 status: publish
-permalink: /2020/06/que-debo-ejecutar-para-saber-si-mi-linux-es-de-32-bits-o-de-64-bits
+permalink: /2020/06/que-debo-ejecutar-para-saber-si-mi-linux-es-de-32-bits-o-de-64-bits.html
 author: fideo
 excerpt: ''
 type: post
@@ -17,6 +18,7 @@ tag:
     - 'sistema operativo'
 post_format: []
 ---
+layout: post
 Para ver que tipo de arquitectura es nuestro sistema operativo Linux que estoy usando; es decir, si es de 32 Bits o de 64 Bits; para eso se ejecuta en consola el siguiente comando
 
 ```

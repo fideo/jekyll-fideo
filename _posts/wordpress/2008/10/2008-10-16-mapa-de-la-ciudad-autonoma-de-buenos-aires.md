@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Mapa de la Ciudad Autónoma de Buenos Aires'
 date: '2008-10-16T14:47:28-03:00'
 status: publish
-permalink: /2008/10/mapa-de-la-ciudad-autonoma-de-buenos-aires
+permalink: /2008/10/mapa-de-la-ciudad-autonoma-de-buenos-aires.html
 author: fideo
 excerpt: ''
 type: post
@@ -12,6 +13,7 @@ category:
 tag: []
 post_format: []
 ---
+layout: post
 Hoy un compañero de trabajo me paso este vínculo <http://mapa.buenosaires.gov.ar/sig/index.phtml> les recomiendo que se peguen una vueltita por este sitio.
 
 No es simplemente un mapa más de Buenos Aires, este tiene la particularidad de comparar como se vía un barrio en 1940 y como se ve ahora (lo mas actual es 2004). Pero esto no es solo lo que me dejó maravillado sino que te muestra el mapa dividido por parcela, te informa en que sección, manzana y parcela se encuentra la dirección ingresada y como si esto fuera poco muestra una foto del frente de la casa edificio galpón, etc. lo que fuera que haya en ese lugar.  

@@ -21,12 +21,12 @@ comments: false
     <ul>
         <li>Fecha de Nacimiento: 2 Diciembre 1973</li>
         <li>Website: <a href="https://federicomazzei.com.ar" target="_blank">federicomazzei.com.ar</a> ó <a href="https://fideox.dev.ar" target="_blank"> fideo.dev.ar</a></li>
-        <li>Celular: +54 9 11 2630 1170</li>
-        <li>Ciudad: 3 de Febrero, Bs. As., Argentina</li>
+        <li>Celular: <a href="tel:+5491126301170">+54 9 11 2630 1170</a></li>
+        <li>Ciudad: <a href="https://maps.app.goo.gl/ia2ryqWtpuzvEacM9" target="_blank">3 de Febrero, Bs. As., Argentina</a></li>
         <li>Edad: 51</li>
         <li>Educación: Terciario</li>
-        <li>email: contactame por acá</li>
-        <li>Freelance: Available</li>
+        <li>email: contactame por acá :TODO</li>
+        <li>Freelance: <i>Available</i></li>
     </ul> 
   </div>
 </div>

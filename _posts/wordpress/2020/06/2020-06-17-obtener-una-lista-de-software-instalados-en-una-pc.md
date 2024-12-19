@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Obtener una lista de software instalados en una PC'
 date: '2020-06-17T12:30:06-03:00'
 status: publish
-permalink: /2020/06/obtener-una-lista-de-software-instalados-en-una-pc
+permalink: /2020/06/obtener-una-lista-de-software-instalados-en-una-pc.html
 author: fideo
 excerpt: ''
 type: post
@@ -18,6 +19,7 @@ tag:
     - software
 post_format: []
 ---
+layout: post
 Si deseamos obtener una lista de todos los software que tenemos instalados en una pc solo basta con correr este comando a continuación y nos generará un archivo de salida ubicado en nuestra raiz del disco C. Obviamente se puede modificar esto para que lo escriba en donde uno lo necesite.
 
 ```

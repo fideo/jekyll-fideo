@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Walking in my shoes'
 date: '2009-01-30T14:28:59-03:00'
 status: publish
-permalink: /2009/01/walking-in-my-shoes
+permalink: /2009/01/walking-in-my-shoes.html
 author: fideo
 excerpt: ''
 type: post
@@ -12,6 +13,7 @@ category:
 tag: []
 post_format: []
 ---
+layout: post
 I would tell you about the things  
 They put me through  
 The pain Ive been subjected to  

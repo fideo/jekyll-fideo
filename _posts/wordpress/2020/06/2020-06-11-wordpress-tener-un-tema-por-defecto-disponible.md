@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'WordPress &#8220;tener un tema por defecto disponible&#8221;'
 date: '2020-06-11T10:17:54-03:00'
 status: publish
-permalink: /2020/06/wordpress-tener-un-tema-por-defecto-disponible
+permalink: /2020/06/wordpress-tener-un-tema-por-defecto-disponible.html
 author: fideo
 excerpt: 'Tener un tema predeterminado disponible. Tener un tema por defecto disponible.'
 type: post
@@ -17,6 +18,7 @@ post_format: []
 footnotes:
     - ''
 ---
+layout: post
 Me encontré con este error dentro de salud del sitio, Tener un tema predeterminado disponible y no entendía como solucionarlo.
 ------------------------------------------------------------------------------------------------------------------------------
 

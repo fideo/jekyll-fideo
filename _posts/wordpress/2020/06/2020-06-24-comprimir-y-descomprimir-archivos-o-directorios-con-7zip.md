@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Comprimir y descomprimir archivos o directorios con 7zip'
 date: '2020-06-24T07:00:00-03:00'
 status: publish
-permalink: /2020/06/comprimir-y-descomprimir-archivos-o-directorios-con-7zip
+permalink: /2020/06/comprimir-y-descomprimir-archivos-o-directorios-con-7zip.html
 author: fideo
 excerpt: ''
 type: post
@@ -17,6 +18,7 @@ tag:
     - 'sistema operativo'
 post_format: []
 ---
+layout: post
 Desde la consola se puede comprimir archivo o directorios con un simple comando
 
 Comprimir  

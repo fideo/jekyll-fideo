@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Realizar preguntas en consola bash linux'
 date: '2012-01-13T14:23:15-03:00'
 status: publish
-permalink: /2012/01/realizar-preguntas-en-consola-bash-linux
+permalink: /2012/01/realizar-preguntas-en-consola-bash-linux.html
 author: fideo
 excerpt: ''
 type: post
@@ -13,6 +14,7 @@ category:
 tag: []
 post_format: []
 ---
+layout: post
 Dentro de este zip ( [ejemplo de confirmar en bash ](https://www.federicomazzei.com.ar/wp-content/uploads/2012/01/ejemplo....zip)) pueden encontrar un ejemplo completo de como realizar las preguntas que aparecen por la consula linux.
 
 Es decir, que si nosotros queremos hacer un bash donde antes de borrar un archivo nos pregunte si realmente queremos borrar ese archivo. Para esto hay una función dentro del confirmar.sh que es llamada / incluida dentro de test.sh.  

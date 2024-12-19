@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Una historia especial'
 date: '2005-03-08T10:21:03-03:00'
 status: publish
-permalink: /2005/03/una-historia-especial
+permalink: /2005/03/una-historia-especial.html
 author: fideo
 excerpt: ''
 type: post
@@ -12,6 +13,7 @@ category:
 tag: []
 post_format: []
 ---
+layout: post
 Terminaba la d?cada del ?40, no era una ?poca f?cil en Europa. La segunda guerra mundial hab?a dejado a Francia en ruinas. Jacques Cousteau, un joven oficial de la marina decide dar un vuelco a su vida, con la ayuda de sus amigos y un esponsor secreto, compra un viejo dragaminas fuera de servicio y lo bautiza “Calypso”, renuncia a la marina y convence a un grupo de buzos de acompa?arlo en la gran aventura: Recorrer los mares del mundo filmando los fondos oce?nicos.
 
 <div align="center">![Jack Cousteau](http://www.federicomazzei.com.ar/images/wordpress/cousteau.jpg)</div>Todos sus ahorros se gastaron en equipamientos, vendi? su casa para costear el viaje, todo su pasado y su futuro estaban puestos en ese viejo barco. Partieron rumbo al Mar Rojo donde planeaban filmar su primera pel?cula.

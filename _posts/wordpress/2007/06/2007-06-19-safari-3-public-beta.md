@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Safari 3 Public Beta'
 date: '2007-06-19T18:02:34-03:00'
 status: publish
-permalink: /2007/06/safari-3-public-beta
+permalink: /2007/06/safari-3-public-beta.html
 author: fideo
 excerpt: ''
 type: post
@@ -12,6 +13,7 @@ category:
 tag: []
 post_format: []
 ---
+layout: post
 Apple se larga a competir con su navegador. Ahora los que alguna vez usaron mac (o lo hacen en sus casas pero no en la oficina) pueden usar el navegador por defecto de Mac OS en Windows.  
 Safari (según apple) es el navegador más rápido en cualquier plataforma.
 

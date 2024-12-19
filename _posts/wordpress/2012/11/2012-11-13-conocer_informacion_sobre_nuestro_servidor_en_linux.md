@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Conocer información sobre nuestro servidor en linux'
 date: '2012-11-13T16:30:11-03:00'
 status: publish
-permalink: /2012/11/conocer_informacion_sobre_nuestro_servidor_en_linux
+permalink: /2012/11/conocer_informacion_sobre_nuestro_servidor_en_linux.html
 author: fideo
 excerpt: ''
 type: post
@@ -13,6 +14,7 @@ category:
 tag: []
 post_format: []
 ---
+layout: post
 Para conocer **detalle** de nuestra pc desde la consola podemos utilizar algunos comandos.
 
 Para saber la cantidad de procesadores ejecutar este comando en Linux

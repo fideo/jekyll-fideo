@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Anydesk problemas con Wayland Cómo habilitar o deshabilitar wayland en Ubuntu 22.04 Desktop'
 date: '2023-01-01T10:25:36-03:00'
 status: publish
-permalink: /2023/01/anydesk-problemas-wayland-habilitar-o-deshabilitar-wayland-ubuntu
+permalink: /2023/01/anydesk-problemas-wayland-habilitar-o-deshabilitar-wayland-ubuntu.html
 author: fideo
 excerpt: 'No se admite el servidor remoto de pantalla wayland, AnyDesk ubuntu'
 type: post
@@ -23,6 +24,7 @@ ao_post_optimize:
 footnotes:
     - ''
 ---
+layout: post
 Si estas trantando de usar AnyDesk en linux y te arroja un mensaje de error como este
 
 ***No se admite el servidor remoto de pantalla wayland***

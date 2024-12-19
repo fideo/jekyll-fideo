@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Armar un avi con subtitulos y pasarlo a mp4'
 date: '2010-04-28T15:07:10-03:00'
 status: publish
-permalink: /2010/04/armar-un-avi-con-subtitulos-y-pasarlo-a-mp4
+permalink: /2010/04/armar-un-avi-con-subtitulos-y-pasarlo-a-mp4.html
 author: fideo
 excerpt: ''
 type: post
@@ -12,6 +13,7 @@ category:
 tag: []
 post_format: []
 ---
+layout: post
 <figure aria-describedby="caption-attachment-506" class="wp-caption alignleft" id="attachment_506" style="width: 300px">[![mencoder](http://www.fideox.com.ar/wp-content/uploads/2010/04/mencoder-300x123.png "mencoder")](http://www.fideox.com.ar/wp-content/uploads/2010/04/mencoder.png)<figcaption class="wp-caption-text" id="caption-attachment-506">mencoder avi to avi with sub</figcaption></figure>
 
 Ando corto de tiempo y necesitaba llevar conmigo las series que quiero ver, para eso estuve investigando (googleando) como podía hacer para obtener un mp4 con los subtitulos incluidos.

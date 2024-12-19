@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Aporte de LES LUTHIERS a nuestro vocabulario'
 date: '2008-06-13T12:00:47-03:00'
 status: publish
-permalink: /2008/06/aporte-de-les-luthiers-a-nuestro-vocabulario
+permalink: /2008/06/aporte-de-les-luthiers-a-nuestro-vocabulario.html
 author: fideo
 excerpt: ''
 type: post
@@ -12,6 +13,7 @@ category:
 tag: []
 post_format: []
 ---
+layout: post
 INESTABLE: Mesa norteamericana de Inés.  
 ENVERGADURA: Lugar de la anatomía humana en dónde se colocan los condones.  
 ONDEANDO: Onde estoy.  

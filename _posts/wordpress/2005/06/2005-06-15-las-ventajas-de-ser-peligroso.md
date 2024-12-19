@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Las ventajas de ser peligroso'
 date: '2005-06-15T11:33:40-03:00'
 status: publish
-permalink: /2005/06/las-ventajas-de-ser-peligroso
+permalink: /2005/06/las-ventajas-de-ser-peligroso.html
 author: fideo
 excerpt: ''
 type: post
@@ -15,6 +16,7 @@ post_format: []
 footnotes:
     - ''
 ---
+layout: post
 El pulpo de anillos azules, habitante de la barrera de coral australiana, es uno de los animales más venenosos del planeta. Ostenta su peligrosidad, al igual que muchas serpientes terrestres, luciendo sus vistosos anillos a lo largo de todo el cuerpo, un mensaje que parece decirle a los posibles depredadores: “No te metas conmigo, puedo matarte, b?scate una presa m?s f?cil”. Despu?s de todo, ?de qu? servir?a un arma defensiva sin un buen marketing?
 
 <div class="wp-block-image"><figure class="alignleft size-full">![](http://federicomazzei.com.ar/blog/wp-content/uploads/2009/12/pulpo-1.jpg)</figure></div>  

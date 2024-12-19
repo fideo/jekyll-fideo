@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Comando dd clonar copiar una ISO a un Pendrive'
 date: '2020-08-18T18:46:56-03:00'
 status: publish
-permalink: /2020/08/comando-dd-clonar-copiar-una-iso-a-un-pendrive
+permalink: /2020/08/comando-dd-clonar-copiar-una-iso-a-un-pendrive.html
 author: fideo
 excerpt: ''
 type: post
@@ -17,6 +18,7 @@ tag:
     - 'sistema operativo'
 post_format: []
 ---
+layout: post
 En este post muestro como generar un pendrive booteable para instalar linux ubuntu por ejemplo, con el comando dd (Dataset Definition), pero sirve para cualquier imagen de disco que tenga un sistema operativo o que sea booteable esa imagen luego de ser instalada dentro del pendrive.
 
 Para esto vamos a usar primero el comando lsblk

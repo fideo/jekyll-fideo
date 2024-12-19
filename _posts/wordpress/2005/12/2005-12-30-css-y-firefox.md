@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Css y Firefox'
 date: '2005-12-30T12:36:50-03:00'
 status: publish
-permalink: /2005/12/css-y-firefox
+permalink: /2005/12/css-y-firefox.html
 author: fideo
 excerpt: ''
 type: post
@@ -12,6 +13,7 @@ category:
 tag: []
 post_format: []
 ---
+layout: post
 Hace poco me pasaron un link de como generar un site con CSS en Firefox.  
 Me parecío interesante que lo lean, acá está el link a esa página.
 

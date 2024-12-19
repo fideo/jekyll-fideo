@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'PHPanywhere un editor de PHP en la Web'
 date: '2009-12-02T09:43:33-03:00'
 status: publish
-permalink: /2009/12/phpanywhereun-editor-de-php-en-la-web
+permalink: /2009/12/phpanywhereun-editor-de-php-en-la-web.html
 author: fideo
 excerpt: ''
 type: post
@@ -12,6 +13,7 @@ category:
 tag: []
 post_format: []
 ---
+layout: post
 Esta es una aplicación online, **gratuita** con la que podemos desarrollar nuestros proyectos en **PHP** desde la web, sin necesidad de descargar nada. **PHPanywhere** puede ser usada desde cualquier PC con acceso a Internet.
 
 Esta herramienta, incluye un editor de sintaxis en tiempo real que soporta todos los formatos web y también un editor FTP con los que subir los archivos desde la misma aplicación o acceder a cualquier servidor, para editar los archivos PHP que allí se encuentren.  

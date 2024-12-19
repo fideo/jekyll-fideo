@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Copiar y pegar entre Vim y tu sistema operativo'
 date: '2023-09-14T15:52:22-03:00'
 status: publish
-permalink: /2023/09/copiar-y-pegar-entre-vim-y-tu-sistema-operativo
+permalink: /2023/09/copiar-y-pegar-entre-vim-y-tu-sistema-operativo.html
 author: fideo
 excerpt: 'Si necesitas copiar y pegar entre Vim y tu sistema operativo este es tu post. Nos pasa muy seguido querer copiar y pegar entre vim y tu S.O.'
 type: post
@@ -18,6 +19,7 @@ tag:
     - vim
 post_format: []
 ---
+layout: post
 Si necesitas copiar y pegar entre Vim y tu sistema operativo este es tu post. Pasa y muy seguido que tengas que copiar algo desde lo que estas editando con Vim y llevarlo a otro “contexto” que es tu sistema operativo
 
 Esto puede ser un dolor de cabeza si no se entiende bien como es que funcionan los registros de vim.

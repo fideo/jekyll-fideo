@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Pasar el Sistema del N96 de Ingles al Español'
 date: '2009-11-02T14:33:39-03:00'
 status: publish
-permalink: /2009/11/pasar-el-sistema-del-n96-de-ingles-al-espanol
+permalink: /2009/11/pasar-el-sistema-del-n96-de-ingles-al-espanol.html
 author: fideo
 excerpt: ''
 type: post
@@ -12,6 +13,7 @@ category:
 tag: []
 post_format: []
 ---
+layout: post
 Lo primero que tenemos que hacer es cambiar el código de producto.  
 Lo segundo es actualizar el celular con la última versión del software disponible en este caso Español.
 

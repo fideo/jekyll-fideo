@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Para terminar y empezar el año'
 date: '2009-12-21T15:22:37-03:00'
 status: publish
-permalink: /2009/12/para-terminar-y-empezar-el-ano
+permalink: /2009/12/para-terminar-y-empezar-el-ano.html
 author: fideo
 excerpt: ''
 type: post
@@ -12,6 +13,7 @@ category:
 tag: []
 post_format: []
 ---
+layout: post
 Hola gente para los que me conocen de varios años saben que no suelo enviar saludos para fin de año. Los motivos los comentaré en otro momento, por ahora podemos decir que es pura vagancia.  
 El punto es que entre todas las notas o cartas que suelen aparecer para estas fechas hay una que me pego y mucho.  
 Me parece importantísimo tenerlas registradas en el blog ya que me va a servir como guía espiritual para aquellos momentos de depresión o incertidumbre.

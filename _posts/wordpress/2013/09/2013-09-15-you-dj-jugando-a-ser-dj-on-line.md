@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Jugando a ser DJ On Line &#8211; You Dj'
 date: '2013-09-15T16:41:34-03:00'
 status: publish
-permalink: /2013/09/you-dj-jugando-a-ser-dj-on-line
+permalink: /2013/09/you-dj-jugando-a-ser-dj-on-line.html
 author: fideo
 excerpt: ''
 type: post
@@ -12,6 +13,7 @@ category:
 tag: []
 post_format: []
 ---
+layout: post
 Mi cuñado me pasó este link (PartyCloud); al que hoy en día le pusieron un nombre mas comercial y mas recordable hoy se llama **you.dj.**
 
 Lo usó en su cumpleaños para pasar música.  

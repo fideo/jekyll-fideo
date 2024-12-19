@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Hosts Virtuales de Apache 2 en Ubuntu'
 date: '2007-10-05T07:00:40-03:00'
 status: publish
-permalink: /2007/10/hosts-virtuales-de-apache-2-en-ubuntu
+permalink: /2007/10/hosts-virtuales-de-apache-2-en-ubuntu.html
 author: fideo
 excerpt: ''
 type: post
@@ -12,6 +13,7 @@ category:
 tag: []
 post_format: []
 ---
+layout: post
 Lo primero, creo una nueva entrada en /etc/hosts (mantengo lo que había y añado lo siguiente):
 
 127.0.0.1 www.fideox.com.ar

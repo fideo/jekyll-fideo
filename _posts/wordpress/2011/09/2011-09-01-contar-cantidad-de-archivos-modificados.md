@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Contar cantidad de archivos modificados'
 date: '2011-09-01T21:00:35-03:00'
 status: publish
-permalink: /2011/09/contar-cantidad-de-archivos-modificados
+permalink: /2011/09/contar-cantidad-de-archivos-modificados.html
 author: fideo
 excerpt: ''
 type: post
@@ -12,6 +13,7 @@ category:
 tag: []
 post_format: []
 ---
+layout: post
 La con consola de Linux ofrece una cantidad interesante de comandos, hoy publico esto para no olvidarme de como se arma y seguramente a alguien le puede servir.
 
 ```

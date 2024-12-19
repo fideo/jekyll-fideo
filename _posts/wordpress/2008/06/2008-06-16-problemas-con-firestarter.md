@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Problemas con Firestarter'
 date: '2008-06-16T10:25:30-03:00'
 status: publish
-permalink: /2008/06/problemas-con-firestarter
+permalink: /2008/06/problemas-con-firestarter.html
 author: fideo
 excerpt: ''
 type: post
@@ -12,6 +13,7 @@ category:
 tag: []
 post_format: []
 ---
+layout: post
 El dispositivo eth0 no está preparado este mensaje se dá cuando reliasamos modificaciones en la configuracuión de Firestarter (Firewall de linux). Después de mucho buscar encontré que la solución es esta.
 
 1º debemos editar el archivo firestarter.sh que se encuentra en **/etc/firestarter/firestarter.sh** (yo lo hago con mcedit utilizando mc), una vez encontrado el archivo y en estado de edición, encuentran la línea que dice así.

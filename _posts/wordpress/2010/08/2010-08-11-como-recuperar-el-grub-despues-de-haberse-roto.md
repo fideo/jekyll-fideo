@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Como recuperar el Grub después de haberse roto'
 date: '2010-08-11T02:31:05-03:00'
 status: publish
-permalink: /2010/08/como-recuperar-el-grub-despues-de-haberse-roto
+permalink: /2010/08/como-recuperar-el-grub-despues-de-haberse-roto.html
 author: fideo
 excerpt: ''
 type: post
@@ -12,6 +13,7 @@ category:
 tag: []
 post_format: []
 ---
+layout: post
 Comunmente el grub se rompe cuando en un mismo disco conviven Windows y Linux para recuperar el grub existen varias formas.
 
 Encontré este video que está muy bueno, espero que les sirva.

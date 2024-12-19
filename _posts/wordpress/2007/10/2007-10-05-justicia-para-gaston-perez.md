@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'JUSTICIA PARA GASTON PEREZ'
 date: '2007-10-05T21:24:00-03:00'
 status: publish
-permalink: /2007/10/justicia-para-gaston-perez
+permalink: /2007/10/justicia-para-gaston-perez.html
 author: fideo
 excerpt: ''
 type: post
@@ -12,6 +13,7 @@ category:
 tag: []
 post_format: []
 ---
+layout: post
 No pedí permiso para publicar esto que me llegó por mail, pero creo que publicándolo aporto un granito de arena para que esto empiece a cambiar de una vez por todas.
 
 *Estimados Vecinos:*

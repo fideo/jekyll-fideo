@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Si el amor se cae &#8211; Los Cafres'
 date: '2008-05-02T10:25:42-03:00'
 status: publish
-permalink: /2008/05/si-el-amor-se-cae-los-cafres
+permalink: /2008/05/si-el-amor-se-cae-los-cafres.html
 author: fideo
 excerpt: ''
 type: post
@@ -12,6 +13,7 @@ category:
 tag: []
 post_format: []
 ---
+layout: post
 No es muy claro el cielo  
 Y esta cerca este desierto  
 No hay amor en el diario de hoy  

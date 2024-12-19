@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Handbreak para convertir videos a dispositivos móviles'
 date: '2012-04-02T18:44:21-03:00'
 status: publish
-permalink: /2012/04/handbreak-para-convertir-videos-a-dispositivos-moviles
+permalink: /2012/04/handbreak-para-convertir-videos-a-dispositivos-moviles.html
 author: fideo
 excerpt: ''
 type: post
@@ -13,6 +14,7 @@ category:
 tag: []
 post_format: []
 ---
+layout: post
 Esta aplicación nos permite convertir videos para poder verlos en los dispositivos móviles tal como smarthphone, ipad, ipod, Apple TV, Android Mid, etc.
 
 Les dejo un pequeño video donde inserto una película y la convierto a el formato por defecto, dejándoles a ustedes que selecciones el formato que mas se adapte a sus necesidades.

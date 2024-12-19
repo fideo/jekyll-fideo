@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Chau &#8211; No Te Va Gustar'
 date: '2011-09-04T13:55:30-03:00'
 status: publish
-permalink: /2011/09/chau-no-te-va-gustar
+permalink: /2011/09/chau-no-te-va-gustar.html
 author: fideo
 excerpt: ''
 type: post
@@ -12,6 +13,7 @@ category:
 tag: []
 post_format: []
 ---
+layout: post
 <font style="position: absolute;overflow: hidden;height: 0;width: 0">[свети мина](http://ikoni.eu/ikoni)</font>Estábamos los dos mirando el mar cuando la tarde moría  
 Como moría lo nuestro, juro que no lo sabía  
 Mire para mi derecha, vi que desaparecías  

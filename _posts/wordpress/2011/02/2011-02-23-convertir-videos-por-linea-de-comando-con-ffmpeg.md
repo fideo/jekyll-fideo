@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'convertir videos por linea de comando con ffmpeg'
 date: '2011-02-23T21:44:12-03:00'
 status: publish
-permalink: /2011/02/convertir-videos-por-linea-de-comando-con-ffmpeg
+permalink: /2011/02/convertir-videos-por-linea-de-comando-con-ffmpeg.html
 author: fideo
 excerpt: ''
 type: post
@@ -12,6 +13,7 @@ category:
 tag: []
 post_format: []
 ---
+layout: post
 Para ver la resolución de un video ejecutamos esto en una consola
 
 **ffmpeg -i mi-video.extension**

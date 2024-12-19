@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'rtorrent &#8211; descargar torrents desde la consola'
 date: '2010-09-07T00:33:24-03:00'
 status: publish
-permalink: /2010/09/rtorrent-descargar-torrents-desde-la-consola
+permalink: /2010/09/rtorrent-descargar-torrents-desde-la-consola.html
 author: fideo
 excerpt: ''
 type: post
@@ -12,6 +13,7 @@ category:
 tag: []
 post_format: []
 ---
+layout: post
 Encontré otro cliente torrent para linux y que se puede usar por consola.
 
 Lo encontré en esta página <http://www.techtear.com/2007/07/24/rtorrent-descarga-torrents-desde-la-consola/>

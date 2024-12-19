@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Madre hay una sola'
 date: '2007-06-02T11:22:18-03:00'
 status: publish
-permalink: /2007/06/madre-hay-una-sola
+permalink: /2007/06/madre-hay-una-sola.html
 author: fideo
 excerpt: ''
 type: post
@@ -12,6 +13,7 @@ category:
 tag: []
 post_format: []
 ---
+layout: post
 Ciudades gigantes,  
 enormes cloacas  
 viajan torrentes hacia el mar  

@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Comparto la configuración de VIM'
 date: '2023-03-24T19:53:12-03:00'
 status: publish
-permalink: /2023/03/comparto-la-configuracion-de-vim
+permalink: /2023/03/comparto-la-configuracion-de-vim.html
 author: fideo
 excerpt: ''
 type: post
@@ -20,6 +21,7 @@ tag:
     - vim
 post_format: []
 ---
+layout: post
 Dejo en el repositorio de github la configuración de VIM, acá podrás encontrar toda la configuración que utilizo para configurar mi **VIM**. Los complementos que utilizo son para el desarrollo de sitios webs y para administración de servidores.
 
 <https://github.com/fideo/vim>

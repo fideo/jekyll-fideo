@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'La colección del pulpo'
 date: '2005-04-13T12:58:50-03:00'
 status: publish
-permalink: /2005/04/la-coleccion-del-pulpo
+permalink: /2005/04/la-coleccion-del-pulpo.html
 author: fideo
 excerpt: ''
 type: post
@@ -15,6 +16,7 @@ post_format: []
 ao_post_optimize:
     - 'a:6:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";s:15:"ao_post_preload";s:0:"";}'
 ---
+layout: post
 Los pulpos suelen permanecer en sus cuevas durante casi todo el día con un ojo atento al exterior y a todos los movimientos que puedan registrarse en su territorio. La cueva le brindará protección adecuada durante el día y le permitirá descansar para salir a recorrer el arrecife en busca de presas cuando caiga la noche.
 
 Coincidentemente la morena, su más temido enemigo, sale de cacería a la misma hora. La morena posee un delicado olfato que le permitiría llegar en la oscuridad hacia la guarida del pulpo. Es por eso muy beneficioso que a esa hora no se encuentre en casa. Al estar vagando por el arrecife y moviéndose permanentemente, los encuentros con las morenas resultan menos probables que estando quieto en un determinado lugar.

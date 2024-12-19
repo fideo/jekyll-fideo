@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Sincronización con Google Drive en Linux usando grive'
 date: '2020-06-08T13:49:52-03:00'
 status: publish
-permalink: /2020/06/sincronizacion-con-google-drive-en-linux-usando-grive
+permalink: /2020/06/sincronizacion-con-google-drive-en-linux-usando-grive.html
 author: fideo
 excerpt: ''
 type: post
@@ -13,6 +14,7 @@ category:
 tag: []
 post_format: []
 ---
+layout: post
 Para poder tener sincronizado los archivos que tenes en tu google drive localmente en tu PC
 
 Lo saqué de el baúl del programador que el autor de esa nota a su vez lo sacó de una página que al momento de escribir esta nota da error 404, es decir no existe.

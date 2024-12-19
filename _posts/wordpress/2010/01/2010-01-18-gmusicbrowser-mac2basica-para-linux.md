@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Gmusicbrowser: música para Linux'
 date: '2010-01-18T10:28:58-03:00'
 status: publish
-permalink: /2010/01/gmusicbrowser-ma%c2%basica-para-linux
+permalink: /2010/01/gmusicbrowser-ma%c2%basica-para-linux.html
 author: fideo
 excerpt: ''
 type: post
@@ -12,6 +13,7 @@ category:
 tag: []
 post_format: []
 ---
+layout: post
 [Gmusicbrowser: música para Linux](http://www.infosertec.com.ar/blog/?p=12728)
 
 Es una aplicación open-source desarrollada en perl para grandes cantidades collecciones; soporta mp3, ogg, flac, mpc, ape.

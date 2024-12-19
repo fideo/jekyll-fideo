@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Gimp con ShortCut de Photoshop'
 date: '2010-10-14T22:59:34-03:00'
 status: publish
-permalink: /2010/10/gimp-con-shortcut-de-photoshop
+permalink: /2010/10/gimp-con-shortcut-de-photoshop.html
 author: fideo
 excerpt: ''
 type: post
@@ -12,6 +13,7 @@ category:
 tag: []
 post_format: []
 ---
+layout: post
 <font style="position: absolute;overflow: hidden;height: 0;width: 0">[холни маси](http://www.videnov.com/)</font><figure aria-describedby="caption-attachment-565" class="wp-caption alignleft" id="attachment_565" style="width: 300px">[![Gimp](http://www.fideox.com.ar/wp-content/uploads/2010/10/gimp-300x217.png "gimp")](http://www.fideox.com.ar/wp-content/uploads/2010/10/gimp.png)<figcaption class="wp-caption-text" id="caption-attachment-565">Gimp pasar shortcut a photoshop</figcaption></figure>
 
 Podemos usar Gimp con los accesos directos / atajos o shortcuts (como quieran llamarlos) de Photoshop o simplemente modificarlos a su gusto.

@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Deploy Meteor en tu propio servidor'
 date: '2018-02-19T11:28:42-03:00'
 status: publish
-permalink: /2018/02/deploy-meteor-en-tu-propio-servidor
+permalink: /2018/02/deploy-meteor-en-tu-propio-servidor.html
 author: fideo
 excerpt: ''
 type: post
@@ -15,6 +16,7 @@ post_format: []
 ao_post_optimize:
     - 'a:6:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";s:15:"ao_post_preload";s:0:"";}'
 ---
+layout: post
 Hoy voy a dejar en mi blog asentado como hice para hacer que una aplicación [Meteor](https://guide.meteor.com/deployment.html) esté corriendo en mi servidor / hosting.  
 Por el momento yo tengo mis sites hosteados en [DonWeb](https://donweb.com/) con un servicio de Cloud Server.  
 Accedo a este servicio a travéz de una consola y en ese server tengo instalado CentOS al momento de escribir esta nota.

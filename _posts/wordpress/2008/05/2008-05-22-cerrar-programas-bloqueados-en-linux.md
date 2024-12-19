@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Cerrar programas bloqueados en Linux'
 date: '2008-05-22T11:32:53-03:00'
 status: publish
-permalink: /2008/05/cerrar-programas-bloqueados-en-linux
+permalink: /2008/05/cerrar-programas-bloqueados-en-linux.html
 author: fideo
 excerpt: ''
 type: post
@@ -12,6 +13,7 @@ category:
 tag: []
 post_format: []
 ---
+layout: post
 Si alguna vez algún programa se queda bloqueado hay una forma de cerrarlo desde la consola: usando el comando kill. Este comando tiene esta sintaxis:
 
 kill

@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Menú realizado con puros CSS'
 date: '2013-09-09T13:20:25-03:00'
 status: publish
-permalink: /2013/09/menu-realizado-con-puros-css
+permalink: /2013/09/menu-realizado-con-puros-css.html
 author: fideo
 excerpt: 'Menú realizado con puros CSS dos ejemplos: con css y css3'
 type: post
@@ -12,8 +13,10 @@ category:
 tag: []
 post_format: []
 ---
+layout: post
 CSS
 ---
+layout: post
 
 Acá podes encontrar menues realizados integramente con CSS.
 

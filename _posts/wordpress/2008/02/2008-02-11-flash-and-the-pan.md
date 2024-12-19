@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Flash And The Pan'
 date: '2008-02-11T16:44:12-03:00'
 status: publish
-permalink: /2008/02/flash-and-the-pan
+permalink: /2008/02/flash-and-the-pan.html
 author: fideo
 excerpt: ''
 type: post
@@ -12,6 +13,7 @@ category:
 tag: []
 post_format: []
 ---
+layout: post
 Walking down the street  
 Kicking cans  
 Looking at the billboard  

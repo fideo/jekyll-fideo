@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Mail de oficina.'
 date: '2008-06-04T17:07:40-03:00'
 status: publish
-permalink: /2008/06/mail-de-oficina
+permalink: /2008/06/mail-de-oficina.html
 author: fideo
 excerpt: ''
 type: post
@@ -12,6 +13,7 @@ category:
 tag: []
 post_format: []
 ---
+layout: post
 <div>Esto pasó realmente en mi trabajo, es un mail que le manda un compañero a una compañera de trabajo, si obvio, la chica es RUBIA.
 
 </div><div>**<span style="font-size: x-small; font-family: Tahoma;"><span style="font-weight: bold; font-size: 10pt; font-family: Tahoma;">De:</span></span>** Liliana  

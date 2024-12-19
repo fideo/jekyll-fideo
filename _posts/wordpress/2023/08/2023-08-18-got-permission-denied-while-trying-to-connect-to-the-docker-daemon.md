@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Got permission denied while trying to connect to the Docker daemon'
 date: '2023-08-18T14:38:34-03:00'
 status: publish
-permalink: /2023/08/got-permission-denied-while-trying-to-connect-to-the-docker-daemon
+permalink: /2023/08/got-permission-denied-while-trying-to-connect-to-the-docker-daemon.html
 author: fideo
 excerpt: 'Si acabas de instalar docker y te aparece ese mensaje de error Got permission denied while trying to connect to the Docker daemon al ejecutar docker, por ejemplo "docker ps" o "docker run" o cualquier otro comando de docker esto te puede servir.'
 type: post
@@ -21,6 +22,7 @@ post_format: []
 footnotes:
     - ''
 ---
+layout: post
 Si acabas de instalar docker y te aparece ese mensaje de error ***Got permission denied while trying to connect to the Docker daemon*** al ejecutar docker, por ejemplo “docker ps” o “docker run” o cualquier otro comando de docker esto te puede servir.
 
 Corregir el error

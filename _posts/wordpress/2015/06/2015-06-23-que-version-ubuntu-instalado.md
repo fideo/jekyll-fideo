@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Saber que verisón de UBUNTU tengo instalado'
 date: '2015-06-23T10:57:09-03:00'
 status: publish
-permalink: /2015/06/que-version-ubuntu-instalado
+permalink: /2015/06/que-version-ubuntu-instalado.html
 author: fideo
 excerpt: ''
 type: post
@@ -12,6 +13,7 @@ category:
 tag: []
 post_format: []
 ---
+layout: post
 Si alguna vez te preguntaste como averiguar que versión de Ubuntu tenes instalada eso lo podés realizar con este comando por consola
 
 ```

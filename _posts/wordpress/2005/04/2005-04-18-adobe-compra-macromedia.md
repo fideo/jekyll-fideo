@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Adobe compra Macromedia'
 date: '2005-04-18T11:21:48-03:00'
 status: publish
-permalink: /2005/04/adobe-compra-macromedia
+permalink: /2005/04/adobe-compra-macromedia.html
 author: fideo
 excerpt: ''
 type: post
@@ -12,6 +13,7 @@ category:
 tag: []
 post_format: []
 ---
+layout: post
 *[Nota adquirida en ELMUNDO.ES](http://www.el-mundo.es/navegante/2005/04/18/empresas/1113812691.html)*  
 Adobe Systems, la compa??a de ‘software’ propietaria de productos como ‘Photoshop’ y del formato de archivo PDF, ha cerrado la compra de Macromedia, due?a de Dreamweaver, Shockwave o Flash, por 3.400 millones de d?lares (2.623 millones de euros) en acciones. Seg?n Adobe, la combinaci?n de ambas empresas potenciar? la compatibilidad entre sus productos como, por ejemplo, PDF y Flash.  
   

@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Feliz Día para todos los Trabajadores'
 date: '2009-05-01T01:27:37-03:00'
 status: publish
-permalink: /2009/05/feliz-dia-para-todos-los-trabajadores
+permalink: /2009/05/feliz-dia-para-todos-los-trabajadores.html
 author: fideo
 excerpt: ''
 type: post
@@ -12,6 +13,7 @@ category:
 tag: []
 post_format: []
 ---
+layout: post
 Les deseo mucha felicidades a todas aquellas personas que trabajan día a día para superarse.
 
 Abrazos.

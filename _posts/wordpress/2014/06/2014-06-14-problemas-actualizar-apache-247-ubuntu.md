@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Problemas al actualizar apache 2.4.7 en Ubuntu'
 date: '2014-06-14T12:45:18-03:00'
 status: publish
-permalink: /2014/06/problemas-actualizar-apache-247-ubuntu
+permalink: /2014/06/problemas-actualizar-apache-247-ubuntu.html
 author: fideo
 excerpt: 'Problemas al actualizar apache 2.4.7 en Ubuntu, hay que realizar pequeños cambios para que todo empiece a funcionar como antes'
 type: post
@@ -12,6 +13,7 @@ category:
 tag: []
 post_format: []
 ---
+layout: post
 Hice un upgrade a Ubuntu 14.04 LTS y el apache se actualizó a 2.4.7 para mi sorpresa dejó de funcionar.  
 Entonces encontré que se han realizado algunos cambios en la configuración. Para empezar si reiniciamos el apache
 

@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Comandos básicos para VIM'
 date: '2023-06-20T10:18:11-03:00'
 status: publish
-permalink: /2023/06/comandos-basicos-para-vim
+permalink: /2023/06/comandos-basicos-para-vim.html
 author: fideo
 excerpt: ''
 type: post
@@ -19,6 +20,7 @@ tag:
     - vim
 post_format: []
 ---
+layout: post
 Estos son algunos de los comandos básicos que uso a diario cuando utilizo VIM.
 
 Iniciar VIM

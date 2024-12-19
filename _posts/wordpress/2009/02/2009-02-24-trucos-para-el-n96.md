@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Trucos para el N96'
 date: '2009-02-24T16:20:32-03:00'
 status: publish
-permalink: /2009/02/trucos-para-el-n96
+permalink: /2009/02/trucos-para-el-n96.html
 author: fideo
 excerpt: ''
 type: post
@@ -12,6 +13,7 @@ category:
 tag: []
 post_format: []
 ---
+layout: post
 Averiguar la mac adress: <span class="postbody">\*#62209526# </span>
 
 <span class="postbody">Averiguar el Serial number: \*#06#</span>

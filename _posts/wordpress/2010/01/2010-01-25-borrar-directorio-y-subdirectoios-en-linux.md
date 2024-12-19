@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Borrar directorio y subdirectoios en linux'
 date: '2010-01-25T11:13:45-03:00'
 status: publish
-permalink: /2010/01/borrar-directorio-y-subdirectoios-en-linux
+permalink: /2010/01/borrar-directorio-y-subdirectoios-en-linux.html
 author: fideo
 excerpt: ''
 type: post
@@ -12,6 +13,7 @@ category:
 tag: []
 post_format: []
 ---
+layout: post
 Para poder borrar directorios y subdirectorios en linux lo único que hace falta es realizar este comando
 
 ```

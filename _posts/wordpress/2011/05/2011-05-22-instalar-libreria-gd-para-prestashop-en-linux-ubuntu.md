@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Instalar libreria gd para prestashop en linux ubuntu'
 date: '2011-05-22T19:50:17-03:00'
 status: publish
-permalink: /2011/05/instalar-libreria-gd-para-prestashop-en-linux-ubuntu
+permalink: /2011/05/instalar-libreria-gd-para-prestashop-en-linux-ubuntu.html
 author: fideo
 excerpt: ''
 type: post
@@ -12,6 +13,7 @@ category:
 tag: []
 post_format: []
 ---
+layout: post
 <font style="position: absolute;overflow: hidden;height: 0;width: 0">[икони](http://xn--h1aafme.net/)</font>Hace unos días estaba retomando un projecto que tenía por ahí colgado el cual usa Prestashop, para quienes no conocenen esto le recomiendo que se peguen una vueltita por el site “<http://www.prestashop.com>“.
 
 Dentro de los requerimientos que solicita para su instalación hay un punto que me costó resolver; y es el de activar en el server la librería gd.

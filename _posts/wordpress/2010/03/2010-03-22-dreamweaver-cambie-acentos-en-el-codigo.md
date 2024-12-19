@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Dreamweaver cambie acentos en el código'
 date: '2010-03-22T12:36:08-03:00'
 status: publish
-permalink: /2010/03/dreamweaver-cambie-acentos-en-el-codigo
+permalink: /2010/03/dreamweaver-cambie-acentos-en-el-codigo.html
 author: fideo
 excerpt: ''
 type: post
@@ -12,6 +13,7 @@ category:
 tag: []
 post_format: []
 ---
+layout: post
 Hace un tiempo que vengo usando Dreamweaver para maquetar páginas entre otras aplicaciones. Un día me sente frente a un dreamweaver que cuando me escribía el “Día” por ejemplo en el source me escribía “Día” literal, y en realidad yo quería que me escriba el código correspondiente al acento en html, que es para el caso de la “í” “&amp;iacute;”.
 
 Esto Dreamweaver lo hace automático y simplemente tenes que ingresar una linea de código mas en tu html y es esta:

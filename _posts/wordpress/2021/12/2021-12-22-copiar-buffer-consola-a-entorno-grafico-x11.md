@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Copiar buffer consola a entorno gráfico X11'
 date: '2021-12-22T13:05:04-03:00'
 status: publish
-permalink: /2021/12/copiar-buffer-consola-a-entorno-grafico-x11
+permalink: /2021/12/copiar-buffer-consola-a-entorno-grafico-x11.html
 author: fideo
 excerpt: ''
 type: post
@@ -19,6 +20,7 @@ post_format: []
 ao_post_optimize:
     - 'a:5:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";}'
 ---
+layout: post
 Necesitaba copiar un texto desde un server y decidí instalarme xclip. Para esto ejecuté:
 
 ```

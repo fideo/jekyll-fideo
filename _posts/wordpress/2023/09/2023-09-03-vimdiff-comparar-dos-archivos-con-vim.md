@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Vimdiff comparar dos archivos con VIM'
 date: '2023-09-03T15:43:59-03:00'
 status: publish
-permalink: /2023/09/vimdiff-comparar-dos-archivos-con-vim
+permalink: /2023/09/vimdiff-comparar-dos-archivos-con-vim.html
 author: fideo
 excerpt: 'Vimdiff nos permite comparar dos archivos, este comando es muy bueno cuando por ejemplo bajamos un archivo de un servidor y lo queremos comparar con lo que tenemos localmente'
 type: post
@@ -17,6 +18,7 @@ tag:
     - vim
 post_format: []
 ---
+layout: post
 Hoy vamos a usar Vimdiff (vim -d) para comparar dos archivos con VIM.
 
 Vimdiff nos permite comparar dos archivos, este comando es muy bueno cuando por ejemplo bajamos un archivo de un servidor y lo queremos comparar con lo que tenemos localmente.

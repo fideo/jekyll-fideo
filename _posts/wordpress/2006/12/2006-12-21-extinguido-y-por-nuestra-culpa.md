@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Extinguido y por nuestra culpa.'
 date: '2006-12-21T14:40:05-03:00'
 status: publish
-permalink: /2006/12/extinguido-y-por-nuestra-culpa
+permalink: /2006/12/extinguido-y-por-nuestra-culpa.html
 author: fideo
 excerpt: ''
 type: post
@@ -12,6 +13,7 @@ category:
 tag: []
 post_format: []
 ---
+layout: post
 La noticia acaba de recorrer el mundo. El delfín de aleta blanca o Baiji, una de las cuatro especies fluviales del mundo, acaba de ser declarado como oficialmente extinguido. De esta manera se convierte en el primer cetáceo que desaparece debido a la acción humana.
 
 La noticia fue dada luego de que un grupo internacional de científicos recorriera y monitoreara los 3.400 kilómetros del Río Yangtsé en China hábitat natural de este delfín casi ciego, sin encontrar ningún individuo con vida.

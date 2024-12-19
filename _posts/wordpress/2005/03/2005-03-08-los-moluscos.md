@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Los Moluscos'
 date: '2005-03-08T08:45:34-03:00'
 status: publish
-permalink: /2005/03/los-moluscos
+permalink: /2005/03/los-moluscos.html
 author: fideo
 excerpt: ''
 type: post
@@ -12,6 +13,7 @@ category:
 tag: []
 post_format: []
 ---
+layout: post
 Los moluscos son un tipo de gran ?xito evolutivo y muy diversificado. As? podemos reconocer en ?l animales aparentemente tan dispares como un caracol de tierra, una ostra y un calamar. Si tenemos en cuenta todos los organismos del grupo (vivos y f?siles) podemos contar alrededor de 100.000 especies (segundo grupo en cuanto a abundancia, despu?s de los Artr?podos).  
   
 Debido a la gran diversificaci?n del grupo, las generalidades hay que aplicarlas a un molusco ideal, que no existe, pero que podr?a haber existido y ser el padre evolutivo de los grupos posteriores.

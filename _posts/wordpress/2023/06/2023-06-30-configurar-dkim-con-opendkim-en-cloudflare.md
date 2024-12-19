@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Configurar DKIM con OpenDKIM en Cloudflare'
 date: '2023-06-30T11:21:35-03:00'
 status: publish
-permalink: /2023/06/configurar-dkim-con-opendkim-en-cloudflare
+permalink: /2023/06/configurar-dkim-con-opendkim-en-cloudflare.html
 author: fideo
 excerpt: ''
 type: post
@@ -18,6 +19,7 @@ tag:
     - software
 post_format: []
 ---
+layout: post
 Hace un tiempo cambié de proveedor de hosting y tuve que configurar yo los registros DKIM en Cloudflare y me encontré con el problema que no sabía como obtener las claves DKIM; bueno acá dejo un instructivo de lo que hice para que me dejen de llegar los mail tipo spoofing.
 
 DKIM o DomainKeys Identified Mail en inglés son las claves de identificación de dominio digitales que sirven para que un intruso no mande mails en tu nombre es decir usando tu dominio; a esto se lo conoce como spoofing.

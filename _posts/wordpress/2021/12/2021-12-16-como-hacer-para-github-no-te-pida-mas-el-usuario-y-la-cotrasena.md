@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Como hacer para GitHub no te pida mas el usuario y la cotraseña'
 date: '2021-12-16T09:07:15-03:00'
 status: publish
-permalink: /2021/12/como-hacer-para-github-no-te-pida-mas-el-usuario-y-la-cotrasena
+permalink: /2021/12/como-hacer-para-github-no-te-pida-mas-el-usuario-y-la-cotrasena.html
 author: fideo
 excerpt: ''
 type: post
@@ -21,6 +22,7 @@ post_format: []
 ao_post_optimize:
     - 'a:5:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";}'
 ---
+layout: post
 Hace un tiempo <span style="text-decoration: underline;">GitHub</span> hizo modificaciones en cuanto a su forma de autentificarse, existen muchas formas de autenticarse con <span style="text-decoration: underline;">GItHub</span>; pero una de las mas comunes es que al momento de realizar un **push** o **pull** te pida un usuario y una contraseña. Pero ahora para poder realizar esto necesitas tener en tu poder un **Token**.
 
 Esto es muy simple de realizar solo tenes que ir a Settings / Developer settings / Personal access token y ahí presionar el botón Generate new token. Te va a pedir un nombre para ese token la cantidad de días que deseas conservar ese token, por defecto viene 30 días, se puede personalizar esta cantidad de días o se puede poner que no expire aunque no es recomendable esto último.

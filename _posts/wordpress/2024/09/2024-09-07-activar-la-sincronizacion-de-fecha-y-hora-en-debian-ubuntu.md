@@ -3,7 +3,7 @@ layout: post
 title: 'Activar la sincronización de Fecha y Hora en Debian Ubuntu'
 date: '2024-09-07T09:05:21-03:00'
 status: publish
-permalink: /2024/09/activar-la-sincronizacion-de-fecha-y-hora-en-debian-ubuntu
+permalink: /2024/09/activar-la-sincronizacion-de-fecha-y-hora-en-debian-ubuntu.html
 author: fideo
 excerpt: ''
 type: post

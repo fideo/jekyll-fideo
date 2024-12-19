@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Tmux github powerline status'
 date: '2022-02-18T11:15:41-03:00'
 status: publish
-permalink: /2022/02/tmux-github-powerline-status
+permalink: /2022/02/tmux-github-powerline-status.html
 author: fideo
 excerpt: 'Cree un repositorio en github para publicar mi configuración de Tmux; también la configuración de powerline y el .bashrc de mi PC por si alguien quiere usar esta configuración.'
 type: post
@@ -27,6 +28,7 @@ ao_post_optimize:
 footnotes:
     - ''
 ---
+layout: post
 Tmux github powerline status. Cree un repositorio en github para publicar mi configuración de Tmux; también la configuración de powerline y el .bashrc de mi PC por si alguien quiere usar esta configuración.
 
 <figure class="wp-block-image size-large is-resized">![Pantalla de Tmux donde se muestran tres promp de linux en una sola ventana.](https://raw.githubusercontent.com/fideo/tmux.conf/main/asset/TerminalMultiplexer.png)</figure>Este es el la dirección en github del repositorio desde ahí se puede descargar y/o clonar <https://github.com/fideo/tmux.conf>

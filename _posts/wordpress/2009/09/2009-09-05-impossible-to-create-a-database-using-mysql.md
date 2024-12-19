@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Impossible to create a database using MySQL &#8211; No podes crear una base de datos en MySQL'
 date: '2009-09-05T16:05:30-03:00'
 status: publish
-permalink: /2009/09/impossible-to-create-a-database-using-mysql
+permalink: /2009/09/impossible-to-create-a-database-using-mysql.html
 author: fideo
 excerpt: ''
 type: post
@@ -12,6 +13,7 @@ category:
 tag: []
 post_format: []
 ---
+layout: post
 Esto me ayudó muchísimo cuando me da el error 1006 (errno:13) en MySQL.
 
 Este error significa es que no tenemos permiso de escritura en la carpeta donde se alojarán las bases de datos.

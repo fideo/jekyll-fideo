@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Benjamin Franklin'
 date: '2005-04-30T11:22:01-03:00'
 status: publish
-permalink: /2005/04/benjamin-franklin
+permalink: /2005/04/benjamin-franklin.html
 author: fideo
 excerpt: ''
 type: post
@@ -12,4 +13,5 @@ category:
 tag: []
 post_format: []
 ---
+layout: post
 La ira nunca carece de motivo, pero pocas veces se trata de un buen motivo.

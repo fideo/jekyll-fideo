@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Volver a cargar GRUB'
 date: '2009-09-12T01:37:47-03:00'
 status: publish
-permalink: /2009/09/volver-a-cargar-grub
+permalink: /2009/09/volver-a-cargar-grub.html
 author: fideo
 excerpt: ''
 type: post
@@ -12,6 +13,7 @@ category:
 tag: []
 post_format: []
 ---
+layout: post
 Para volver a cargar GRUB como cargador de arranque sigue estos pasos:
 
 <table><tr><td>1. $ sudo grub

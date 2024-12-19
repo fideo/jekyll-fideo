@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Algunos tutoriales y sites de css'
 date: '2010-03-11T00:49:58-03:00'
 status: publish
-permalink: /2010/03/algunos-tutoriales-y-sites-de-css
+permalink: /2010/03/algunos-tutoriales-y-sites-de-css.html
 author: fideo
 excerpt: ''
 type: post
@@ -12,6 +13,7 @@ category:
 tag: []
 post_format: []
 ---
+layout: post
 Hace tiempo que no me ponia a visitar páginas que hablen de CSS ( Cascading Style Sheet ), es bueno cada tanto dejar pasar un tiempo para ver que hay de nuevo en cuanto a maquetación DIV. Para mi la única forma de aprender maquetación es con horas silla, es decir sentado en la silla y leer tutoriales o manuales o viendo como colegas arman las páginas.  
 Por eso realicé una selección de páginas que hablan sobre este téma y decidí anotarmeló en mi blog para tenerlas de refencia.
 

@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Instalar Eclipse PDT para PHP'
 date: '2008-05-03T09:00:36-03:00'
 status: publish
-permalink: /2008/05/instalar-eclipse-pdt-para-php
+permalink: /2008/05/instalar-eclipse-pdt-para-php.html
 author: fideo
 excerpt: ''
 type: post
@@ -12,6 +13,7 @@ category:
 tag: []
 post_format: []
 ---
+layout: post
 **Eclipse PDT para PHP**  
 En este tutorial veremos como descargar, instalar y configurar el Entorno de Desarrollo Eclipse para trabajar con PHP. Eclipse es uno de los mas poderosos editores, para lenguajes como JAVA, C, PHP, y otros, y lo mejor de todo es que es de uso Gratuito.  
 **Instalar Eclipse PDT para PHP**  

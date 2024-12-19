@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Aeropuerto Ezeiza (posted from flickr)'
 date: '2007-03-18T00:03:32-03:00'
 status: publish
-permalink: /2007/03/aeropuerto-ezeiza
+permalink: /2007/03/aeropuerto-ezeiza.html
 author: fideo
 excerpt: ''
 type: post
@@ -12,6 +13,7 @@ category:
 tag: []
 post_format: []
 ---
+layout: post
 <span style="font-size: 0.9em; margin-top: 0px">  
 [![](http://farm1.static.flickr.com/167/421703012_3b62129385_m.jpg)](http://www.flickr.com/photos/fideophp/421703012/ "photo sharing")  
 [Aeropuerto Ezeiza](http://www.flickr.com/photos/fideophp/421703012/)  

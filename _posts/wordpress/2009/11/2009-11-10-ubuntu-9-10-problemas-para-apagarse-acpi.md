@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Ubuntu 9.10 problemas para apagarse (acpi) en la Vostro 1520'
 date: '2009-11-10T22:15:16-03:00'
 status: publish
-permalink: /2009/11/ubuntu-9-10-problemas-para-apagarse-acpi
+permalink: /2009/11/ubuntu-9-10-problemas-para-apagarse-acpi.html
 author: fideo
 excerpt: ''
 type: post
@@ -12,6 +13,7 @@ category:
 tag: []
 post_format: []
 ---
+layout: post
 Hace tiempo que tenía el siguiente problema con **Ubuntu** y mi Vostro 1520
 
 Googlenado encontré esta solución que valga la redundancia me solucionó la vida. Colocando esto ” ***acpi=force apm=power\_off*** ” dentro de /boot/grub/menu.lst en la linea que dice algo así:

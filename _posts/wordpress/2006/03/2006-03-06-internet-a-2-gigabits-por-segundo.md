@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Internet a 2 Gigabits por segundo'
 date: '2006-03-06T13:10:00-03:00'
 status: publish
-permalink: /2006/03/internet-a-2-gigabits-por-segundo
+permalink: /2006/03/internet-a-2-gigabits-por-segundo.html
 author: fideo
 excerpt: ''
 type: post
@@ -12,6 +13,7 @@ category:
 tag: []
 post_format: []
 ---
+layout: post
 *Titulo Original: Prueban Internet a una velocidad de 2 Gigabits por segundo*
 
 La red de alta velocidad permitir? descargar la [Enciclopedia Brit?nica](http://www.britannica.com/ "Enciclopedia Brit?nica") completa en siete segundos.

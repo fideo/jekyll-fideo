@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Buscar por tamaño y antiguedad en gmail'
 date: '2015-10-20T08:31:22-03:00'
 status: publish
-permalink: /2015/10/buscar-por-tamano-y-antiguedad-en-gmail
+permalink: /2015/10/buscar-por-tamano-y-antiguedad-en-gmail.html
 author: fideo
 excerpt: ''
 type: post
@@ -12,6 +13,7 @@ category:
 tag: []
 post_format: []
 ---
+layout: post
 Si alguna vez tuviste la necesidad de buscar por tamaño y antigüedad en gmail acá te dejo un comando muy simple que podes poner en el buscar de gmail y te traerá todos los mails que comprendas esos valores que se configuraron en la búsqueda.
 
 En este ejemplo que les dejo estamos buscando mails que contengan un tamaño mayor (larger) a 2 Megas (2m) y que tengan una antigüedad (older\_than) de 1 año (1y)

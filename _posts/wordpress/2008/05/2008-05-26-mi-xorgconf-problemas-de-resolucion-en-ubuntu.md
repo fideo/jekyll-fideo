@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Mi xorg.conf Problemas de resolución en Ubuntu'
 date: '2008-05-26T00:21:34-03:00'
 status: publish
-permalink: /2008/05/mi-xorgconf-problemas-de-resolucion-en-ubuntu
+permalink: /2008/05/mi-xorgconf-problemas-de-resolucion-en-ubuntu.html
 author: fideo
 excerpt: ''
 type: post
@@ -12,6 +13,7 @@ category:
 tag: []
 post_format: []
 ---
+layout: post
 Publique mi xorg.conf a modo de backup, pero tal vez a alguien le sirva.
 
 el original era asi:

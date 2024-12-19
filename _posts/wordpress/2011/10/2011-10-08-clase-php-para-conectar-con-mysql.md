@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Clase PHP para conectar con MySQL'
 date: '2011-10-08T10:08:40-03:00'
 status: publish
-permalink: /2011/10/clase-php-para-conectar-con-mysql
+permalink: /2011/10/clase-php-para-conectar-con-mysql.html
 author: fideo
 excerpt: ''
 type: post
@@ -12,6 +13,7 @@ category:
 tag: []
 post_format: []
 ---
+layout: post
 #### Crear un archivo que se llame mysql.php
 
 ```

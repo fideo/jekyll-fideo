@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Averiguar la edad con PHP'
 date: '2008-05-21T16:10:11-03:00'
 status: publish
-permalink: /2008/05/averiguar-la-edad-con-php
+permalink: /2008/05/averiguar-la-edad-con-php.html
 author: fideo
 excerpt: ''
 type: post
@@ -12,6 +13,7 @@ category:
 tag: []
 post_format: []
 ---
+layout: post
 Supongamos que uno quiere publicar la edad de nuestros clientes y el dato que tenemos es la fecha de nacimiento, esta función que esta acá debajo es muy útil.
 
 *Enjoy!!!*

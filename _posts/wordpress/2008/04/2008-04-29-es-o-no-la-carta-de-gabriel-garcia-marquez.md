@@ -1,8 +1,9 @@
 ---
+layout: post
 title: '¿Es o no la carta de Gabriel García Marquez?'
 date: '2008-04-29T12:05:16-03:00'
 status: publish
-permalink: /2008/04/es-o-no-la-carta-de-gabriel-garcia-marquez
+permalink: /2008/04/es-o-no-la-carta-de-gabriel-garcia-marquez.html
 author: fideo
 excerpt: ''
 type: post
@@ -12,6 +13,7 @@ category:
 tag: []
 post_format: []
 ---
+layout: post
 <span style="font-family: Verdana;">**¿CÓMO SE SIENTE, YANQUI?**</span>
 
 <span style="font-family: Verdana;">¿Cómo se siente ver que el horror estalla en tu patio y no en la sala del vecino?</span>

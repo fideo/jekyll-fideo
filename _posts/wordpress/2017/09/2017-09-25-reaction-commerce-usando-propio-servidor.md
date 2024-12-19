@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Reaction Commerce usando propio servidor'
 date: '2017-09-25T19:49:48-03:00'
 status: publish
-permalink: /2017/09/reaction-commerce-usando-propio-servidor
+permalink: /2017/09/reaction-commerce-usando-propio-servidor.html
 author: fideo
 excerpt: ''
 type: post
@@ -16,6 +17,7 @@ post_format: []
 ao_post_optimize:
     - 'a:5:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";}'
 ---
+layout: post
 Les comparto este video que le prometí a Alexander Ditzend, el cual muestra como subo al servidor de hosting (en mi caso por el momento DonWeb) la plataforma de Reaction Commerce.
 
 <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="281" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/du7gkeJniu8?feature=oembed" title="Reaction Commerce corriendo en servidor propio" width="500"></iframe>

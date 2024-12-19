@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 'Centos Web Panel CWP ERROR: Can&#8217;t create temporary directory /var/lib/clamav/'
 date: '2022-02-18T08:48:22-03:00'
 status: publish
-permalink: /2022/02/centos-web-panel-cwp-error-cant-create-temporary-directory-var-lib-clamav
+permalink: /2022/02/centos-web-panel-cwp-error-cant-create-temporary-directory-var-lib-clamav.html
 author: fideo
 excerpt: 'Corregí el error ERROR: Can''t create temporary directory /var/lib/clamav/ ejecutando estos comandos'
 type: post
@@ -19,6 +20,7 @@ post_format: []
 ao_post_optimize:
     - 'a:5:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";}'
 ---
+layout: post
 Tengo un servidor con lo manejo con CWP (Centos Web Panel) y en los logs vi un error como este
 
 ```

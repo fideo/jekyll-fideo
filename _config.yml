@@ -1,3 +1,11 @@
+# Parametros que no pueden cambiarse de github pages
+lsi: false
+safe: true
+source: https://fideo.github.io/
+incremental: false
+gist:
+  noscript: false
+
 # Site settings
 title: Fideo - Federico Mazzei # site title
 description: >- # site description
@@ -22,7 +30,7 @@ author:
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
 # URL settings
-url: https://fideo.github.io/ #
+# url: https://fideo.github.io/jekyll-fideo/ #
 baseurl: jekyll-fideo/
 permalink: /:title/
 google_analytics: # leave it blank if not wish

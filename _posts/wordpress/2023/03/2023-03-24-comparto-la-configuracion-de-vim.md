@@ -21,7 +21,6 @@ tag:
     - vim
 post_format: []
 ---
-layout: post
 Dejo en el repositorio de github la configuración de VIM, acá podrás encontrar toda la configuración que utilizo para configurar mi **VIM**. Los complementos que utilizo son para el desarrollo de sitios webs y para administración de servidores.
 
 <https://github.com/fideo/vim>

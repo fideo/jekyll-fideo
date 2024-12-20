@@ -16,7 +16,6 @@ tag:
     - software
 post_format: []
 ---
-layout: post
 Si necesitas hacer un backup de tu base de datos con mongo este artículo te puede ayudar
 
 <div aria-hidden="true" class="wp-block-spacer" style="height:20px"></div>En el próximo comando realizo un backup de la base de datos llamada gastosmensuales y lo llego al directorio /home/fideo/dumps/ claro que esto puede cambiarse por la dirección que ustedes prefieran /home/user/lugarqueprefieran

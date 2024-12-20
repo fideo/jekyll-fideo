@@ -13,7 +13,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 Hola gente para los que me conocen de varios años saben que no suelo enviar saludos para fin de año. Los motivos los comentaré en otro momento, por ahora podemos decir que es pura vagancia.  
 El punto es que entre todas las notas o cartas que suelen aparecer para estas fechas hay una que me pego y mucho.  
 Me parece importantísimo tenerlas registradas en el blog ya que me va a servir como guía espiritual para aquellos momentos de depresión o incertidumbre.

@@ -13,7 +13,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 Averiguar la mac adress: <span class="postbody">\*#62209526# </span>
 
 <span class="postbody">Averiguar el Serial number: \*#06#</span>

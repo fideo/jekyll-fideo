@@ -21,7 +21,6 @@ post_format: []
 ao_post_optimize:
     - 'a:5:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";}'
 ---
-layout: post
 Me pasó que necesitaba por un tiempo hacer que docker no inicie automáticamente; es decir, que cuando se reinicia el Servidor las imagenes de docker no se carguen automáticamente.
 
 El proyecto yo lo tenía con docker-compose pero para esto usé solo los comandos de docker.

@@ -13,7 +13,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 La con consola de Linux ofrece una cantidad interesante de comandos, hoy publico esto para no olvidarme de como se arma y seguramente a alguien le puede servir.
 
 ```

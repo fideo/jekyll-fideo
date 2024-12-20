@@ -14,7 +14,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 <figure aria-describedby="caption-attachment-925" class="wp-caption alignleft" id="attachment_925" style="width: 300px">[![Sistema Operativo Linux](http://federicomazzei.com.ar/blog/wp-content/uploads/2015/09/ubuntu-logo112.png)](http://federicomazzei.com.ar/blog/wp-content/uploads/2015/09/ubuntu-logo112.png)<figcaption class="wp-caption-text" id="caption-attachment-925">Sistema Operativo Linux</figcaption></figure>
 
 Si tenes una versión vieja de Ubuntu como la 12.10 y estas intentando actualizar Ubuntu a 14.04 hay algunas items a tener en cuenta.

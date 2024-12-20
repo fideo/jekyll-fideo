@@ -19,7 +19,6 @@ tag:
     - software
 post_format: []
 ---
-layout: post
 Hace un tiempo cambié de proveedor de hosting y tuve que configurar yo los registros DKIM en Cloudflare y me encontré con el problema que no sabía como obtener las claves DKIM; bueno acá dejo un instructivo de lo que hice para que me dejen de llegar los mail tipo spoofing.
 
 DKIM o DomainKeys Identified Mail en inglés son las claves de identificación de dominio digitales que sirven para que un intruso no mande mails en tu nombre es decir usando tu dominio; a esto se lo conoce como spoofing.

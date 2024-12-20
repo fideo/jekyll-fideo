@@ -16,7 +16,6 @@ post_format: []
 ao_post_optimize:
     - 'a:5:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";}'
 ---
-layout: post
 ![System linux](http://federicomazzei.com.ar/blog/wp-content/uploads/2015/02/System-linux-150x150.png)Cuanto pesa un directorio en linux , si quiero conocer cuanto **pesa** (**que tamaño ocupa**) un directorio en **linux** puedo usar este comando:
 
 ```

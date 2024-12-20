@@ -13,5 +13,4 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 Que este año sea mucho mejor que el anterior.

@@ -21,7 +21,6 @@ post_format: []
 ao_post_optimize:
     - 'a:5:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";}'
 ---
-layout: post
 Si sos uno de los tantos que se cansa cada vez que tenes que hacer pull o push a un repositorio en github poniendo el usuario y la contraseña, podes realizar estos pasos y dejará de pedirte user y pass cada vez que quieras realizar un pull o push a github.
 
 Primero tenes que ver que esté funcionando el ssh-agent para eso ejecutar este comando en la consola de linux

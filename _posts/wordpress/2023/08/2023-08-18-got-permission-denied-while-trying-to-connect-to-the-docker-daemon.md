@@ -22,7 +22,6 @@ post_format: []
 footnotes:
     - ''
 ---
-layout: post
 Si acabas de instalar docker y te aparece ese mensaje de error ***Got permission denied while trying to connect to the Docker daemon*** al ejecutar docker, por ejemplo “docker ps” o “docker run” o cualquier otro comando de docker esto te puede servir.
 
 Corregir el error

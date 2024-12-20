@@ -14,7 +14,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 Para poder tener sincronizado los archivos que tenes en tu google drive localmente en tu PC
 
 Lo saqué de el baúl del programador que el autor de esa nota a su vez lo sacó de una página que al momento de escribir esta nota da error 404, es decir no existe.

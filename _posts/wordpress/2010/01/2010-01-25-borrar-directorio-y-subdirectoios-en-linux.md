@@ -13,7 +13,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 Para poder borrar directorios y subdirectorios en linux lo único que hace falta es realizar este comando
 
 ```

@@ -13,7 +13,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 Hace tiempo que tenía el siguiente problema con **Ubuntu** y mi Vostro 1520
 
 Googlenado encontré esta solución que valga la redundancia me solucionó la vida. Colocando esto ” ***acpi=force apm=power\_off*** ” dentro de /boot/grub/menu.lst en la linea que dice algo así:

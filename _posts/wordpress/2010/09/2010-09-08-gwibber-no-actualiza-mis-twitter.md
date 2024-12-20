@@ -13,7 +13,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 Es muy simple de solucionar seguí los siguientes pasos, cuando terminas abrí la aplicación y listo.
 
 Desde la Terminal  

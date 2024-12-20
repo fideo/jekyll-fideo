@@ -13,7 +13,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 Si alguna vez algún programa se queda bloqueado hay una forma de cerrarlo desde la consola: usando el comando kill. Este comando tiene esta sintaxis:
 
 kill

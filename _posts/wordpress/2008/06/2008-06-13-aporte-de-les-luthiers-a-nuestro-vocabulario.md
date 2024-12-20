@@ -13,7 +13,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 INESTABLE: Mesa norteamericana de Inés.  
 ENVERGADURA: Lugar de la anatomía humana en dónde se colocan los condones.  
 ONDEANDO: Onde estoy.  

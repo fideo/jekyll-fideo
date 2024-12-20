@@ -13,7 +13,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 I would tell you about the things  
 They put me through  
 The pain Ive been subjected to  

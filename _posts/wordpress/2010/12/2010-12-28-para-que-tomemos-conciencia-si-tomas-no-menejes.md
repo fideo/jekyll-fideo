@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Para que &#8220;tomemos&#8221; conciencia &#8211; Si tomas no menejes'
+title: 'Para que “tomemos” conciencia - Si tomas no menejes'
 date: '2010-12-28T09:11:15-03:00'
 status: publish
 permalink: /2010/12/para-que-tomemos-conciencia-si-tomas-no-menejes.html
@@ -13,7 +13,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 Tomar conciencia.  
 En estas fiestas es común que brindemos con amigos, luego con familiares, seguramente con compañeros de trabajo y así por dos semanas. Creo que ver este video les hará tomar conciencia de lo que puede suceder si tomamos alcohol y luego manejamos.
 

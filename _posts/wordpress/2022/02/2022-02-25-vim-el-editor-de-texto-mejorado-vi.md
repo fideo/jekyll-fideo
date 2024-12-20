@@ -21,7 +21,6 @@ post_format: []
 ao_post_optimize:
     - 'a:6:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";s:15:"ao_post_preload";s:0:"";}'
 ---
-layout: post
 Vi fue creado por William Nelson Joy mas conocido como Bill Joy; él empezó a desarrolar allá por el año 1976 este editor. Luego en 1991 Bram Moolenaar realiza una mejora este editor y lo llama Vim siendo este uno de los editores de texto mas utilizados por los desarrolladores.
 
 Pero este post no trata de hablar de historia de Vim sino de lo que se puede hacer con él.

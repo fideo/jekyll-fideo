@@ -13,7 +13,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 Cuando intentás instalar una impresora en Linux a través de **CUPS** (que significa Common *Unix Printing System*) y te encontrás con errores del tipo
 
 **forbidden unable to upload cupsd.conf file** –&gt; cuando intentás grabar el archivo cupsd.conf

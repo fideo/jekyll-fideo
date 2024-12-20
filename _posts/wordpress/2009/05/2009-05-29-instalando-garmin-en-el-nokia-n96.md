@@ -13,7 +13,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 DEPRECADO NO USAR
 
 Buscando en internet como instalar el Garmin en un Nokia N96 encontré en taringa un post muy interesante y que realmente me ayudó mucho para la instalación del software, si bien el artículo publicado era para el N95 básicamente el N96 es una versión mejorada del N95.

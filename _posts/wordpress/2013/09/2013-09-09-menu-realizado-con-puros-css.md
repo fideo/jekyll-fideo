@@ -13,10 +13,8 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 CSS
 ---
-layout: post
 
 Acá podes encontrar menues realizados integramente con CSS.
 

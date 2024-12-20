@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Adele &#8211; Someone like you'
+title: 'Adele - Someone like you'
 date: '2012-01-13T11:02:11-03:00'
 status: publish
 permalink: /2012/01/adele-someone-like-you.html
@@ -13,7 +13,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 Adele – Someone like you
 
 I heard that you’re settled down,  

@@ -13,7 +13,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 Lo primero, creo una nueva entrada en /etc/hosts (mantengo lo que había y añado lo siguiente):
 
 127.0.0.1 www.fideox.com.ar

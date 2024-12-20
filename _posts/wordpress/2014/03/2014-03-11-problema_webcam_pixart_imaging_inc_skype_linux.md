@@ -13,7 +13,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 Para los que usan la **Webcam Pixart Imaging en linux** y están hinchados las bolas de googlear y googlear para hacer funcionar la webcam **Pixart Imaging Inc** acá les dejo una linea para que la ejecuten en su consola; acto seguido se les va abrir directamente **Skype.**
 
 ```

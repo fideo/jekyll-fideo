@@ -13,7 +13,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 Apple se larga a competir con su navegador. Ahora los que alguna vez usaron mac (o lo hacen en sus casas pero no en la oficina) pueden usar el navegador por defecto de Mac OS en Windows.  
 Safari (según apple) es el navegador más rápido en cualquier plataforma.
 

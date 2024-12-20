@@ -13,7 +13,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 Instalé PAMP (Personal Apache MySQL PHP) en mi N96, funciona de maravillas. Se puedo ejecutar consultas a el server (MySQL). Si bien el modulo fué probado en un N95 con mi N96 funciona muy bien, no esperaba menos.
 
 [Nokia Connecting People](http://wiki.opensource.nokia.com/projects/PAMP "PAMP for Symbian")

@@ -15,7 +15,6 @@ post_format: []
 footnotes:
     - ''
 ---
-layout: post
 Si terminaste de instalar [Ubuntu](http://federicomazzei.com.ar/blog/tag/ubuntu/) 17.10 y te encontrás que al hacer click en los íconos de la barra de tarea no se minimizan debés correr este comando para habilitarlo.
 
 `<br></br>gsettings set org.gnome.shell.extensions.dash-to-dock click-action 'minimize'<br></br>`

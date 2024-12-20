@@ -13,7 +13,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 Para ver la resolución de un video ejecutamos esto en una consola
 
 **ffmpeg -i mi-video.extension**

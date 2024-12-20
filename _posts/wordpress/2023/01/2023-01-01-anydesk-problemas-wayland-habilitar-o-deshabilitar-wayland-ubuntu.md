@@ -24,7 +24,6 @@ ao_post_optimize:
 footnotes:
     - ''
 ---
-layout: post
 Si estas trantando de usar AnyDesk en linux y te arroja un mensaje de error como este
 
 ***No se admite el servidor remoto de pantalla wayland***

@@ -13,6 +13,5 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 Me pasé a ubuntu como servidor web, y al reiniciar el apache2 me tiraba este error “**apache2: Could not reliably determine the server’s fully qualified domain name, using 127.0.0.1 for ServerName**“, esto lo solucione poniendo en el archivo hosts que se encuentra en /etc/hosts esta linea ” **127.0.0.1 localhost.localdomain localhost panchita**” (panchita = nombre de la máquina) que por algún motivo se modificó.  
 Espero que les sirva.

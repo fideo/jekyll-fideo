@@ -18,7 +18,6 @@ tag:
     - 'sistema operativo'
 post_format: []
 ---
-layout: post
 En este post muestro como generar un pendrive booteable para instalar linux ubuntu por ejemplo, con el comando dd (Dataset Definition), pero sirve para cualquier imagen de disco que tenga un sistema operativo o que sea booteable esa imagen luego de ser instalada dentro del pendrive.
 
 Para esto vamos a usar primero el comando lsblk

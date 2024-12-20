@@ -14,7 +14,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 Para conocer **detalle** de nuestra pc desde la consola podemos utilizar algunos comandos.
 
 Para saber la cantidad de procesadores ejecutar este comando en Linux

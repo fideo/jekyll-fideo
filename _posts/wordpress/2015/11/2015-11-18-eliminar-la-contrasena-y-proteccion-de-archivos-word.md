@@ -23,7 +23,6 @@ ao_post_optimize:
 footnotes:
     - ''
 ---
-layout: post
 <div class="wp-block-image size-full wp-image-979"><figure class="alignleft">![MS Word](http://federicomazzei.com.ar/blog/wp-content/uploads/2015/11/icono-word.gif)<figcaption class="wp-element-caption">Editor de texto</figcaption></figure></div>Un truco que encontré por ahí y que puede salvarle el día a más de uno es tratar de recuperar el contenido de un documento que no se puede editar dentro de un documento Word.
 
 Para esto vamos a guardar el archivo Word en cuestion en formato .HTML luego lo abrimos con un editor de html preferido y buscamos las lineas

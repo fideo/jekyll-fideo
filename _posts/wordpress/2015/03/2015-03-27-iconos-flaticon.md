@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Iconos &#8211; Flaticon'
+title: 'Iconos - Flaticon'
 date: '2015-03-27T11:34:16-03:00'
 status: publish
 permalink: /2015/03/iconos-flaticon.html
@@ -13,7 +13,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 Iconos – Flaticon
 -----------------
 

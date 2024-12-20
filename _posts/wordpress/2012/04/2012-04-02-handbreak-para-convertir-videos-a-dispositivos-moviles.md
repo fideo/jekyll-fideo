@@ -14,7 +14,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 Esta aplicación nos permite convertir videos para poder verlos en los dispositivos móviles tal como smarthphone, ipad, ipod, Apple TV, Android Mid, etc.
 
 Les dejo un pequeño video donde inserto una película y la convierto a el formato por defecto, dejándoles a ustedes que selecciones el formato que mas se adapte a sus necesidades.

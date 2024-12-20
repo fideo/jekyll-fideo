@@ -13,7 +13,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 A quien le interese este bolso no teiene mas que comentar. El bolso está nuevo, es usado, pero casi no tiene uso.
 
 Precio: 340 pesos

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Heroin &#8211; Sumo'
+title: 'Heroin - Sumo'
 date: '2007-10-18T15:13:09-03:00'
 status: publish
 permalink: /2007/10/heroin-sumo.html
@@ -13,7 +13,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 <dl><dd>*…But there’s something,*</dd><dd>*something I can’t forget,*</dd><dd>*‘cause it’s in my head,*</dd><dd>*think about it when I’m in bed.*</dd><dd>*Do you know what it is?*</dd><dd>*It’s heroin…*</dd><dd> </dd><dd> </dd></dl>Traducción
 
 <dl><dd>*…Pero hay algo,*</dd><dd>*algo que no puedo olvidar,*</dd><dd>*causa esto en mi cabeza,*</dd><dd>*pienso en eso cuando estoy en la cama.*</dd><dd>*¿Sabes que es?*</dd><dd>*Es heroina…*</dd></dl>Años después en algunos reportajes, Luca diría que llegó a Argentina “para huir de la heroína”, droga dura que ya le había costado la vida a una de sus hermanas y que a él lo tuvo en coma a fines de los ’70.

@@ -21,7 +21,6 @@ tag:
     - webcam
 post_format: []
 ---
-layout: post
 Si tener un celular (dispositivo móvil) con Android y queres usar la cámara de ese celular como webcam podes usar un programa que se llama [Droidcam](https://www.dev47apps.com/), es muy buena opción para no comprar una webcam y usa ese dispositivo viejo que tenías en un cajón.
 
 Este artículo trae una solución a un problema frecuente que se dá cuando usas linux, el problema se presenta que no siempre reconoce las conexiones por USB.

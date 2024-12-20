@@ -13,7 +13,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 <span style="font-family: Verdana;">**¿CÓMO SE SIENTE, YANQUI?**</span>
 
 <span style="font-family: Verdana;">¿Cómo se siente ver que el horror estalla en tu patio y no en la sala del vecino?</span>

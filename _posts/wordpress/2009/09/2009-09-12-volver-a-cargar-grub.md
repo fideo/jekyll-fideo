@@ -13,7 +13,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 Para volver a cargar GRUB como cargador de arranque sigue estos pasos:
 
 <table><tr><td>1. $ sudo grub

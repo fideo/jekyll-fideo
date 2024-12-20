@@ -13,7 +13,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 Walking down the street  
 Kicking cans  
 Looking at the billboard  

@@ -13,7 +13,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 Hace poco mi hermana me trajo la notebook para que se la arreglara (usa windows 7), después de luchar para recuperar los datos se decidió formatear la notebook.  
 El intentar instalar **Windows 7** otra vez me encontré con la sorpresa de que **no me detectaba el disco duro**  de la notebook (sony vaio vgn-nm240f). Googlé varios días hasta que encontré la **solución**, y es la siguiente:
 

@@ -21,7 +21,6 @@ tag:
     - ubuntu
 post_format: []
 ---
-layout: post
 Si terminaste de instalar Linux y no te funciona el Wi-Fi tenes que realizar los siguientes pasos para que empiece a funcionar.
 
 > Estos pasos a continuación son para distribuciones basadas en Debian

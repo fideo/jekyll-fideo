@@ -13,7 +13,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 Hice un upgrade a Ubuntu 14.04 LTS y el apache se actualizó a 2.4.7 para mi sorpresa dejó de funcionar.  
 Entonces encontré que se han realizado algunos cambios en la configuración. Para empezar si reiniciamos el apache
 

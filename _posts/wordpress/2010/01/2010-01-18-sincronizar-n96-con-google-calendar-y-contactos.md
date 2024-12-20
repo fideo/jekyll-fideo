@@ -13,7 +13,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 Hace tiempo quería sincronizar mi celular (N96) con la cuenta de google, uso nucho el calendario y los contactos de esta cuenta. Investigué y navegué mucho por internet buscando una solución para esto, probé muchas pero ninguna me dejó realmente satisfecho.
 
 Cuando me compré el celular lo primero que hice fue instalarle varias aplicaciones de las cuales varias no le di la importancia que se merecía. Mail for Exchange es una aplicación de nokia que te permite sincronisar el celular a travez de internet (wifi) con tu cuenta de gmail (google).

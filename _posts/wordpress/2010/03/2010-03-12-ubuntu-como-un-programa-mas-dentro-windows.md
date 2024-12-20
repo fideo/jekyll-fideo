@@ -13,7 +13,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 Si es así de simple ubuntu corriendo en Windows, simplemente entras a [Wubi](http://wubi-installer.org/ "ubuntu en windows") te descargas una aplicación de aproximadamente 1.4 Mb y luego seguís pasos muy simple.
 
 La ventaja, y no menor, es que no necesitas particionar el disco rígido o modificar tu grub (sessión de arranque) para tener los dos sistemas operativos funcionando en una misma máquina.

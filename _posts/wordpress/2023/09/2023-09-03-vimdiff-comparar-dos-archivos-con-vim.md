@@ -18,7 +18,6 @@ tag:
     - vim
 post_format: []
 ---
-layout: post
 Hoy vamos a usar Vimdiff (vim -d) para comparar dos archivos con VIM.
 
 Vimdiff nos permite comparar dos archivos, este comando es muy bueno cuando por ejemplo bajamos un archivo de un servidor y lo queremos comparar con lo que tenemos localmente.

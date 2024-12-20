@@ -13,10 +13,7 @@ category:
     - 'Sin categoría'
 tag: []
 post_format: []
-ao_post_optimize:
-    - 'a:6:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";s:15:"ao_post_preload";s:0:"";}'
 ---
-layout: post
 Un pequeño modelo llamado Tango 600 fabricado por Commuter Cars -empresa de origen norteamericano- parece estar derribando todos los mitos de lo que significa la elaboración de un vehículo urbano.  
 Con sus innovadores dos motores eléctricos, sus productores destacan que el modelo no emite contaminación al aire, el principal problema de contaminación en las grandes ciudades.  
 Además posee una inédita autonomía de 330 kms sin necesidad de cargar las baterías. Su modelo compacto agrega las ventajas propias de un City Car: facilidad de estacionamiento, y menor uso de espacios públicos.  

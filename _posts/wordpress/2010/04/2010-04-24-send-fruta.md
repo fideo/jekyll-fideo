@@ -13,7 +13,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 Un espacio para hablar de la fruta o de los que manda fruta (send fruta).  
 Los invito a visitar este blog, podés encontrar cualquier cosa…, pero simpre tomando como actor principal a la fruta.
 

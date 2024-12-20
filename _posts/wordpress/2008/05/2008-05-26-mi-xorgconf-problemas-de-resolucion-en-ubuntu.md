@@ -13,7 +13,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 Publique mi xorg.conf a modo de backup, pero tal vez a alguien le sirva.
 
 el original era asi:

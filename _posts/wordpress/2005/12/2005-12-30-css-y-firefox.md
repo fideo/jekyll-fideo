@@ -13,7 +13,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 Hace poco me pasaron un link de como generar un site con CSS en Firefox.  
 Me parecío interesante que lo lean, acá está el link a esa página.
 

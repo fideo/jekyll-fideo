@@ -19,7 +19,6 @@ tag:
     - vim
 post_format: []
 ---
-layout: post
 Si te aparece este mensaje dentro de tu editor VIM  
   
 ***The ycmd server SHUT DOWN (restart with ‘:YcmRestartServer’). YCM core library not dete…; you need to compile YCM before using it. Follow the instructions in the documentation.***   

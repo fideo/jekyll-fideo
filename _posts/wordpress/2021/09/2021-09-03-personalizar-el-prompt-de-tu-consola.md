@@ -16,7 +16,6 @@ post_format: []
 ao_post_optimize:
     - 'a:5:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";}'
 ---
-layout: post
 Es muy útil tener siempre a mano información que nos puede servir en el día a día, y si la linea de comandos es lo que usas en el día a día entonces este post es útil para vos.
 
 Ya sea que uses Linux o Mac la consola es una herramienta muy potente; hoy en este post dejo un link de como personalizar el prompt de la consola como uno quiere.

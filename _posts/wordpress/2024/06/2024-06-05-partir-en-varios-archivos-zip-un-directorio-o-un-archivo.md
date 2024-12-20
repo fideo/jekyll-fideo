@@ -18,7 +18,6 @@ tag:
     - ubuntu
 post_format: []
 ---
-layout: post
 En mi caso necesitaba realizar un comando que me permita partir en varios archivos .zip un directorio o un archivo .iso
 
 Obviamente que por pantalla gráfica esto es muy fácil de hacer pero el problema se presenta cuando estas accediendo a un servidor y tienes que partir un archivo grande en varios fragmentos para poder transportarlo ya sea para mandar por mail o copiarlo a otro lugar.

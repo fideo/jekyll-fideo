@@ -13,7 +13,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 ![Te Amo mi Amor](http://www.fideox.com.ar/images/diaenamorado.jpg "Te Amo mi Amor")
 
 TE AMO!!!

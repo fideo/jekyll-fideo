@@ -13,7 +13,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 Si, tecnología móvil google.  
 Que se puede decir de google, un grande.  
 ![Google Phone](http://www.fideox.com.ar/images/google-phone-1.jpg "Google Phone")

@@ -13,7 +13,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 **btlaunchmanycurses**
 
 Este es el comando que necesitas para ejecutar un cliente torrent desde consola. La operatoria es muy simple en algun lugar de tu linux creas una carpeta por ejemplo /home/usuario/Escritorio/torrent ó /home/usuario/Desktop/torrent ( según el idioma que se tenga instalado español o inglés respectivamente) una vez creada la carpeta colocamos dentro todos los torrents que queremos empezar a bajar.  

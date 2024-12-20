@@ -13,7 +13,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 Que se les cumplan todos los deseos para esta navidad.
 
 [![Feliz Navidad](http://www.fideox.com.ar/wp-content/uploads/2009/12/feliz_navidad-260x300.jpg "feliz_navidad")](http://www.fideox.com.ar/wp-content/uploads/2009/12/feliz_navidad.jpg)

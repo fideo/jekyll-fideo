@@ -13,7 +13,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 Mis deseos para esta navidad es que tengan una…
 
 Feliz Navidad!!!

@@ -13,7 +13,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 Que se les cumplan todos los deseos que tengan para este nuevo año que comienza.
 
 ***<font style="position: absolute;overflow: hidden;height: 0;width: 0">[хотелско обзавеждане](http://www.videnov.com/)</font>Enjoy!!!***

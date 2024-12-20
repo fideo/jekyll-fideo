@@ -13,7 +13,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 Irse… de a poco o rápidamente
 
 No me gusta mucho escribir despedidas. O Necrológicas. No me gusta escribir sobre lo inevitable y mucho menos de la mirada que a uno le deja la gente que se va. Por vaya uno a saber que extraña yunta, muchas personas que he conocido se han ido. Y juro no tener la edad de mis abuelos o de mis padres como para ya tener tantos muertos a cuestas. He vivido alguna parte de mi vida muy parecida a la de estos hoy muertos y a pesar de todo siempre sigo lamentando al que se va por vivir tan rápido. Será que veo la vida con otros ojos (tal vez con sus pupilas más en su lugar) o tal vez el tiempo me sacó un poco el calor en las venas y puso frialdad en la mente, pero hoy en día lamento la muerte del tipo que intentó correr más rápido que todos.  

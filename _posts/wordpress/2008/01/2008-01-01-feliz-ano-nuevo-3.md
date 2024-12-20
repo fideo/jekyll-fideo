@@ -13,5 +13,4 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 Les deseo a todos un muy feliz año nuevo.

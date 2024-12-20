@@ -13,7 +13,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 Que este año sea mucho, pero muchísimo ***MEJOR*** que el anterior.
 
 Feliz Año!!!

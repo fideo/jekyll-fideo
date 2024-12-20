@@ -13,7 +13,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 Esto lo saqué de sentido web me parece muy bueno y también lo publico en mi blog para no olvidarme de esto.
 
 Diez errores que se cometen cuando se diseña una aplicación, un resumen sería el siguiente:

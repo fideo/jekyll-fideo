@@ -13,7 +13,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 [![View Book](http://builtbywill.com/code/viewbook/images/viewbook.png "viewbook")](http://builtbywill.com/code/viewbook/examples/)Por un post de twitter llegué a este link que me parece excelente para aquellos que quieran mostrar un parte de una revista. Hasta ese momento no conocía otra forma de hacerlo que con Flash.
 
 <http://builtbywill.com/code/viewbook/examples/>

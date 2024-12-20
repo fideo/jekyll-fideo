@@ -13,7 +13,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 Muchas veces nos vemos obligados a querer **instalar paquetes .deb desde consola** y para esto solo tenemos que escribir esto en la linea de comando o consola
 
 ```

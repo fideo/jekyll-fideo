@@ -13,7 +13,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 Comunmente el grub se rompe cuando en un mismo disco conviven Windows y Linux para recuperar el grub existen varias formas.
 
 Encontré este video que está muy bueno, espero que les sirva.

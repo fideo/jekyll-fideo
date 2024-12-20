@@ -13,7 +13,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 Hace un tiempo algunas personas me preguntan sobre linux… si es fácil de usar si te reconoce los periféricos, si es compatible con FAT32 o NTFS de windows, etc etc ec.
 
 [Corre Linux corre 1](http://federicomazzei.com.ar/blog/wp-content/uploads/2021/07/Manual-Corre_Linux_Corre-1.pdf "Corrre Linux Corre 1")

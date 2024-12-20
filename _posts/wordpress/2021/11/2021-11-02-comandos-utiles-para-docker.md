@@ -20,7 +20,6 @@ post_format: []
 ao_post_optimize:
     - 'a:5:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";}'
 ---
-layout: post
 Esto tal vez le puede servir a mas de uno y de paso me lo dejo como ayuda memoria
 
 Usé un dockerfile para crear un esquema de wordpress es decir que ese docker contiene un nginx, una base mysql (mariadb) y el lenguaje PHP que utiliza WordPress; cuando levantaba el docker con docker-compose up la base me daba error entonces necesitaba ejecutar por consola algunos comandos para poder crear la base que no la había creado y también para darle privilegios al usuario en cuestión.

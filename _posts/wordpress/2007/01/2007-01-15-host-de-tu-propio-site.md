@@ -13,7 +13,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 Esta nota es dedicada a HhernánN (clio), para poder tener tu site lo primero que necesitas y te recomiendo que uses es un servidor web, hay mucho pero creo que el mejor es [apache](http://www.apache.org%20k/ "Apache Software Foundation").
 
 Para configurarlo necesitas leer un poco la documentación que trae, es muy buena, pero también se puede buscar info en el gurú del mundo ([google](http://www.fideox.com.ar/www.google.com.ar "Google")).

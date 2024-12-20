@@ -13,7 +13,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 <http://www.xxlager.com.mx/>
 
 Es una cerveza Mejicana, la cerveza no tuve la oportunidad de probarl, pero el site esta muy bueno.

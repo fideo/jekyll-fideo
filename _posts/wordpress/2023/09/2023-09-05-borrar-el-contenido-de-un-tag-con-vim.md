@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Vim &#8211; Borrar el contenido de un tag con vim'
+title: 'Vim - Borrar el contenido de un tag con vim'
 date: '2023-09-05T15:44:41-03:00'
 status: publish
 permalink: /2023/09/borrar-el-contenido-de-un-tag-con-vim.html
@@ -20,7 +20,6 @@ post_format: []
 footnotes:
     - ''
 ---
-layout: post
 Para borrar el contenido de un tag con vim solo necesitamos usar o presionar tres teclas
 
 ```

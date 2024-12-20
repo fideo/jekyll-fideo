@@ -19,7 +19,6 @@ post_format: []
 ao_post_optimize:
     - 'a:5:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";}'
 ---
-layout: post
 Este es un listado de los comandos SSH que se usan con más frecuencia. Los comandos se encuentran organizados por tema e incluyen una descripción breve para comprender como usarlos.
 
 ### Comandos de navegación

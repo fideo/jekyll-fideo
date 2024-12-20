@@ -13,8 +13,7 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
-Muy buen site para cuando necesitas butear en ese sistema que se llama D.O.S (?te acordas de ese sistema operativo?).  
+Muy buen site para cuando necesitas butear en ese sistema que se llama D.O.S (¿te acordas de ese sistema operativo?).
 Aparte de generarte un booteable para D.O.S. tiene otros discos de arranques m?s.  
 *Enjoy!!!*
 

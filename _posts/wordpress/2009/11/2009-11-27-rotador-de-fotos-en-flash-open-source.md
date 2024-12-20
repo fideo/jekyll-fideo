@@ -13,7 +13,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 Hola gente les recomiendo que se den una vuelta por este sitio, realmente muy buena solución para cuando tengan que mostrar muchas imágenes en un solo lugar, al mejor estilo player. En realidad es un player de imágenes, ya que este control les permite pasar de a una las imágenes verlas full screen entre otras cosas. Les dejo el vínculo de la página oficial de este player [www.longtailvideo.com](http://www.longtailvideo.com).
 
 Yo hice algunas pruebas con este **player / rotador** y lo pueden consultar en esta página que les dejo acá.

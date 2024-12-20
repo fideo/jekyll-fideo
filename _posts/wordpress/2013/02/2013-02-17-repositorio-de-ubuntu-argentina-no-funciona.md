@@ -13,7 +13,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 Tal vez experimentaste alguna vez que al queres actualizar algo de tu ubuntu no te funciona. Eso puede deberse por varios motivos y puede pasar muy rara vez, pero puede pasar.  
 Si esto ocurre lo que te recomiendo que hagas en los siguiente, que vayas a tu centro de software ubuntu una vez dentro presionar sobre editar y elegir la opción Origenes de Software.  
 Se abrirá una nueva ventana similar a la de aquí abajo y debemos seleccionar donde dice Descargar desde, seleccionar Servidor principal.

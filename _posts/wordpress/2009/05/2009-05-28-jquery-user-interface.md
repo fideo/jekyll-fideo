@@ -13,7 +13,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 No deja de sorprenderme esta librery de javascript, les recomiendo que visiten este vínculo [http://jqueryui.com/home](http://jqueryui.com/home "JQuery UI") .  
 Es muy fácil de usar e implementar, se pueden utilizar los themes (temas) que presentan en el site o también modificarlos a gusto y piaccere nuestro.
 

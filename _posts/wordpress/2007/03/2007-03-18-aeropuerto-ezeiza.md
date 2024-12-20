@@ -13,7 +13,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 <span style="font-size: 0.9em; margin-top: 0px">  
 [![](http://farm1.static.flickr.com/167/421703012_3b62129385_m.jpg)](http://www.flickr.com/photos/fideophp/421703012/ "photo sharing")  
 [Aeropuerto Ezeiza](http://www.flickr.com/photos/fideophp/421703012/)  

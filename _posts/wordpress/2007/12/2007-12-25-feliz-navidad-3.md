@@ -13,7 +13,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 Que se les cumplan todos los deseos.
 
 Felicidades.

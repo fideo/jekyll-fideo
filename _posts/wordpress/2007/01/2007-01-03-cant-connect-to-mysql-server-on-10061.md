@@ -13,7 +13,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 Tengo mi BD en una máquina linux con Mandriva 2007 y quiero conectarme para insertar datos desde un “windows” y se produce el siguiente error **Can’t connect to MySQL server on \*\*\*.\*\*\*.\*\*.\*\*\* (10061).**
 
 Solucione este error comentando la linea **skip-networking**, espero que les sirva.  

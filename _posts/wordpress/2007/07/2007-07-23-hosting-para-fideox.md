@@ -13,5 +13,4 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 Después de muchos años (4) de hosting casero (fibertel) invertí unos pesos en mi blog para que esté online las 24 horas del día los 365 días año. El servicio lo contraté con [Dattatec](http://www.dattatec.com "Dattatec") con un abono anual de 30 pesos (basico, peor es nada) .

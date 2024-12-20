@@ -13,7 +13,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 **aTunes** es la opción **iTunes** pero **Open Source**, logrando con esto ser multiplataforma y muy buena en actualizaciones. Visualmente es similar al **SongBird** más que al iTunes, dentro de la sección screenshots de la página oficial se puede ver que hay varias formas de visualizar el player y hasta cambiarle la apiencia para que convine mejor con nuestro desktop.
 
 Es mucho mas ágil – liviano que el songbird y realiza las tareas tipicas de un reproductor de música como por ejemplo lee mp3, ogg, flac, wma, mp4, ra, rm, tags y escribe mp3, ogg, flac, wma, mp4, tags muestra las imagenes incluidas en los ID3v2 Tags (etiquetas), también incluye un editor de etiquetas, karoke, etc.

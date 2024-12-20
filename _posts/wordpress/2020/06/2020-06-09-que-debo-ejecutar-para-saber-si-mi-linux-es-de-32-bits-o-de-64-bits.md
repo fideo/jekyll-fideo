@@ -18,7 +18,6 @@ tag:
     - 'sistema operativo'
 post_format: []
 ---
-layout: post
 Para ver que tipo de arquitectura es nuestro sistema operativo Linux que estoy usando; es decir, si es de 32 Bits o de 64 Bits; para eso se ejecuta en consola el siguiente comando
 
 ```

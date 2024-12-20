@@ -13,7 +13,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 Mi personal weblog cumple 5 añitos.
 
 Feliz cumple!!!.

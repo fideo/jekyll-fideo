@@ -13,7 +13,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 Les deseo mucha felicidades a todas aquellas personas que trabajan día a día para superarse.
 
 Abrazos.

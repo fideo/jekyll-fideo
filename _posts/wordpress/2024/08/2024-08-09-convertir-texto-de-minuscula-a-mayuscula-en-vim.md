@@ -18,7 +18,6 @@ tag:
     - vim
 post_format: []
 ---
-layout: post
 Para convertir texto de minúscula a MAYÚSCULA en Vim se puede realizar una convinación de tres o cuatro teclas para conseguir este resultado.
 
 Estando en modo NORMAL en vim y presionando las teclas **gUw** cambian la palabra siguiente de minúscula a MAYÚSCULA y si queremos hacer el paso inverso la convinación de teclas es **guw** como se puede apreciar el único cambio significativo es la letra **u** que cambia de minúscula a mayúscula según se necesite cambiar de un estado a otro.

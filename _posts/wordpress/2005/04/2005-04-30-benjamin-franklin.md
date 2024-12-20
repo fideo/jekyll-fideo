@@ -13,5 +13,4 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 La ira nunca carece de motivo, pero pocas veces se trata de un buen motivo.

@@ -13,7 +13,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 Luego de googlear un poco encontré una solución muy simple a este problema para los que usamos linux y es hacer lo siguiente.  
 Iniciar una consola y escribimos
 

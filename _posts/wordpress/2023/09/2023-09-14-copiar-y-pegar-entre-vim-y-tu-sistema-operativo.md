@@ -19,7 +19,6 @@ tag:
     - vim
 post_format: []
 ---
-layout: post
 Si necesitas copiar y pegar entre Vim y tu sistema operativo este es tu post. Pasa y muy seguido que tengas que copiar algo desde lo que estas editando con Vim y llevarlo a otro “contexto” que es tu sistema operativo
 
 Esto puede ser un dolor de cabeza si no se entiende bien como es que funcionan los registros de vim.

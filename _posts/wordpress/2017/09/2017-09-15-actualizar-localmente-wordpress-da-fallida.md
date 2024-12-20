@@ -15,7 +15,6 @@ post_format: []
 ao_post_optimize:
     - 'a:6:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";s:15:"ao_post_preload";s:0:"";}'
 ---
-layout: post
 Tengo algunos clientes que usan WordPress como CMS de su sitio y para actualizarles los plugins o a la versión mas reciente de este CMS prefiero hacerlo localmente (es decir en una máquina que no sea producción) para / por si hay errores que no impacten directamente al cliente que estaría visitando la página. También de esta forma logramos que no se pierda acceso al sitio.
 
 <div class="wp-block-image"><figure class="alignleft">![](http://federicomazzei.com.ar/blog/wp-content/uploads/2017/09/php_logo.png)</figure></div>Cuando lo quería actualizar, ya sea plugins o versión de wordpress, me encontraba con un error que dice conexión fallida. Esto se debe a que no está habilitado en el servidor php la extensión php\_curl que permite por este medio descargar esas actualizaciones.

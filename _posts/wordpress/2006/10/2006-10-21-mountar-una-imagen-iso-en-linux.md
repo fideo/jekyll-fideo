@@ -9,11 +9,15 @@ excerpt: ''
 type: post
 id: 89
 category:
-    - Uncategorized
-tag: []
+  - linux
+tag:     
+  - comando
+  - linux
 post_format: []
 ---
-layout: post
-Esta nota es mas que nada un ayuda memoria, por que cada vez que tengo que montar una imagen ISO en linux no recuerdo como se hace talvez a alguien mas le sirva.
+Esta nota es más que nada una ayuda memoria, porque cada vez que tengo que montar una imagen ISO en linux no recuerdo como se hace talvez a alguien más le sirva.
 
- **mount -t iso9660 -o loopback imagen.raw /punto/de/montaje**
+```
+mount -t iso9660 -o loopback imagen.raw /punto/de/montaje
+```
+ 

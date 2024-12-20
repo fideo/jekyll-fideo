@@ -18,7 +18,6 @@ tag:
     - ubuntu
 post_format: []
 ---
-layout: post
 Tal vez te encuentres con la necesidad de tener que armar una lista de directorios o carpetas, de tu sistema linux, acá te dejo un comando que te permite realizar ese proceso.
 
 ```

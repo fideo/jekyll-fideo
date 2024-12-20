@@ -13,7 +13,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
-Por una p?gina que m?s de un webmaster debe estar buscando, como hacer que el dise?o entre IE y Mozilla se vean iguales en ambos navegadores.  
-IBM public? una nota donde dan algunos consejos para solucionar algunos de los problemas.  
-[Ver art?culo](http://www-128.ibm.com/developerworks/web/library/wa-ie2mozgd/)
+Por una página que más de un webmaster debe estar buscando, como hacer que el diseño entre IE y Mozilla se vean iguales en ambos navegadores.  
+IBM publicó una nota donde dan algunos consejos para solucionar algunos de los problemas.  
+[Ver artículo](http://www-128.ibm.com/developerworks/web/library/wa-ie2mozgd/)

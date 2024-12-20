@@ -19,7 +19,6 @@ tag:
     - software
 post_format: []
 ---
-layout: post
 Si deseamos obtener una lista de todos los software que tenemos instalados en una pc solo basta con correr este comando a continuación y nos generará un archivo de salida ubicado en nuestra raiz del disco C. Obviamente se puede modificar esto para que lo escriba en donde uno lo necesite.
 
 ```

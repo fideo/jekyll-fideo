@@ -13,7 +13,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 Si alguna vez te preguntaste como averiguar que versión de Ubuntu tenes instalada eso lo podés realizar con este comando por consola
 
 ```

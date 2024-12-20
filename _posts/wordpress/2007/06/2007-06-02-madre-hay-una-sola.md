@@ -13,7 +13,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 Ciudades gigantes,  
 enormes cloacas  
 viajan torrentes hacia el mar  

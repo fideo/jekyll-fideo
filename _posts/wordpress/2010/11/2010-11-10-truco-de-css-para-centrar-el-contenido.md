@@ -13,7 +13,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 Si alguna vez te preguntas como centrar el contenido de una página maquetandolo en css bueno acá está la solución es simple solo tenes que copiar este código de acá abajo y listo.
 
 `<br></br>.contenedor {<br></br>position: absolute;<br></br>top: 50%;<br></br>left: 50%;<br></br>width: 800px;<br></br>height: 600px;<br></br>margin-left: -400px; /* 1/2 del elemento width */<br></br>margin-top: -300px; /* 1/2 del elemento height*/<br></br>background-color:#CCC;<br></br>}`

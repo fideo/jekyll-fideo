@@ -13,7 +13,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 Para todos los que preguntan ¿qué es #lta? cuando lo ven escrito en twitter, les aclaro que esto significa “La Tenes Adentro” una frase que se hizo muy popular en estos días.
 
 Entonces #lta = la tenes adentro

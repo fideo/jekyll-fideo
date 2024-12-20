@@ -21,7 +21,6 @@ ao_post_optimize:
 footnotes:
     - ''
 ---
-layout: post
 Para crear un repositorio git en servidor propio hay que seguir algunos pasos muy simples, pero deben hacerse en esta secuencia sin alterar nada.
 
 #### Servidor

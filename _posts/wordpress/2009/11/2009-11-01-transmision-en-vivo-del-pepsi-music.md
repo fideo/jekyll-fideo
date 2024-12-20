@@ -13,7 +13,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 Para ver en vivo el pepsi music 09 podes ingresar a  
 [www.10musica.com/contenidos/musica.html](http://www.10musica.com/contenidos/musica.html) y disfrutarlo como si estuvieses ahí.  
 Enjoy!!!.

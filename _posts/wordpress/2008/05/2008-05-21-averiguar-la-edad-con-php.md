@@ -13,7 +13,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 Supongamos que uno quiere publicar la edad de nuestros clientes y el dato que tenemos es la fecha de nacimiento, esta función que esta acá debajo es muy útil.
 
 *Enjoy!!!*

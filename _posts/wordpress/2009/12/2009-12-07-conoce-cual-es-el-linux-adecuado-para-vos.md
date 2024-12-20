@@ -13,7 +13,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 Dentro de este sitio <http://www.zegeniestudios.net/ldc/> podés encontrar un cuestionario donde con unas pocas preguntas y muy fáciles de responder, podés conocer cual es el Linux que se adecua a tus necesidades y/o conocimientos.
 
 Yo lo hice y los resultados de la encuesta me gustaron mucho.

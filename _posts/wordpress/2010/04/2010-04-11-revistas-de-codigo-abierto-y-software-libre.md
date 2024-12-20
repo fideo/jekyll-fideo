@@ -13,7 +13,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 Encontré algunas revistas más sobre código abierto y software libre, digo “algunas más” porque a tuxinfo la vengo leyendo haces algo más de un año esta revista, que es muy buena.
 
 Pero después de un tiempo busqué algunas revistas mas de este tipo de contenido y encontré estas.

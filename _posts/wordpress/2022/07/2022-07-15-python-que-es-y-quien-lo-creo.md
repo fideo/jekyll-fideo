@@ -18,7 +18,6 @@ post_format: []
 ao_post_optimize:
     - 'a:6:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";s:15:"ao_post_preload";s:0:"";}'
 ---
-layout: post
 ¿Qué es Python?
 ===============
 

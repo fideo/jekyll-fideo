@@ -13,7 +13,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 ![](https://www.goosync.com/images/goosync_logo.jpg "GooSync ")<span style="text-decoration: line-through;">Hola gente hace un tiempo que quería sincronizar mi N96 con Google Calendar después de buscar y buscar encontré un site que tiene dos modalidades; la opción paga y la gratis, como todo buen ratón eligo la opción gratis.</span>
 
 <span style="text-decoration: line-through;">Te registras, obtenes los datos para sincronizar con tu cuenta y listo.</span>

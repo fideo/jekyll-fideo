@@ -20,7 +20,6 @@ tag:
     - vim
 post_format: []
 ---
-layout: post
 Estos son algunos de los comandos básicos que uso a diario cuando utilizo VIM.
 
 Iniciar VIM

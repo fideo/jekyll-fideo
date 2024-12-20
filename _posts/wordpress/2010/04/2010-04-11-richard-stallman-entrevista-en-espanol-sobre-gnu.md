@@ -13,7 +13,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 Dentro de **esdebian.org** encontré un hermoso video donde lo escuchamos hablar a **Richard Stallman** sobre GNU y otras yerbas.
 
 <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" height="385" width="480"><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><param name="src" value="http://www.youtube.com/v/b2oIsxei05o&hl=en_US&fs=1&"></param><param name="allowfullscreen" value="true"></param><embed allowfullscreen="true" allowscriptaccess="always" height="385" src="http://www.youtube.com/v/b2oIsxei05o&hl=en_US&fs=1&" type="application/x-shockwave-flash" width="480"></embed></object>

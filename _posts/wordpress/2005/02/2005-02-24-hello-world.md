@@ -13,7 +13,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 Bienvenido a mi weblog.  
 Para los que no saben muy bien que es un weblog paso a detallarlo:  
 “Es un sitio web que posee una serie de artículos y/o publicaciones en un orden cronológico. Por ejemplo, alguien tiene una herramienta que le permite controlar y subir contenido a un sitio web, entoces gracias a su facilidad escribe todos los días, como si mantuviera una charla cronológica ? como si escribiera para organizar y recordar su información.”

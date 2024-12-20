@@ -13,7 +13,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 #### Crear un archivo que se llame mysql.php
 
 ```

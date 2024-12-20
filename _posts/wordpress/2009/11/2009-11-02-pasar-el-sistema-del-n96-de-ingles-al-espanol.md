@@ -13,7 +13,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 Lo primero que tenemos que hacer es cambiar el código de producto.  
 Lo segundo es actualizar el celular con la última versión del software disponible en este caso Español.
 

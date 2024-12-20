@@ -18,7 +18,6 @@ tag:
     - 'sistema operativo'
 post_format: []
 ---
-layout: post
 Desde la consola se puede comprimir archivo o directorios con un simple comando
 
 Comprimir  

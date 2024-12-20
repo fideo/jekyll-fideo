@@ -13,7 +13,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 <div>Esto pasó realmente en mi trabajo, es un mail que le manda un compañero a una compañera de trabajo, si obvio, la chica es RUBIA.
 
 </div><div>**<span style="font-size: x-small; font-family: Tahoma;"><span style="font-weight: bold; font-size: 10pt; font-family: Tahoma;">De:</span></span>** Liliana  

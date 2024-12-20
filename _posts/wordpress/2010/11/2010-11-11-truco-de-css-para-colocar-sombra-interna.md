@@ -13,7 +13,6 @@ category:
 tag: []
 post_format: []
 ---
-layout: post
 Si bien esto no funciona en todos los navegadores a alguien le puede interesar colocar dentro de un div una sombra interna, ya sea por diseño u otra indole.
 
 Imaginemos que tenemos un contenedor de 800px de ancho por 600px de alto (px = pixel) y a ese contenedor le aplicamos la sombra interna en cuestión, bueno lo único que tienen que hacer es colocar las lineas de código que marco con comentarios.

@@ -16,7 +16,6 @@ post_format: []
 ao_post_optimize:
     - 'a:5:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";}'
 ---
-layout: post
 Durante mucho tiempo estuve teniendo este error GDBus.Error:org.freedesktop.PolicyKit1.Error.Failed cada vez que ejecutaba sudo “service csf restart” por ejemplo o cualquier servicio que quisiera reiniciar me mostraba este error.  
 Esto me sucedía en mi servidor Centos 7 con el panel de control CentOS Web Panel es decir el CWP; esto empezó a suceder luego de una actualización, estuve varios días sin poder solucionar este problema.
 

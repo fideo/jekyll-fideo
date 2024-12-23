@@ -11,6 +11,26 @@
   @extend %clearfix;
 }
 
+// SobreMi
+.sobremi-4 {
+  @media screen and (max-width: 600px) {
+    visibility: hidden; display: none;
+  }
+  @media screen and (min-width: 600px) {
+    flex: 4;
+  }
+}
+.sobremi-8 {
+  flex: 8;
+  padding-left: 1em;
+  padding-top: 1.5em;
+  @media screen and (max-width: 600px) {
+    padding-left: 0em;
+    margin: 0;
+
+  }
+}
+
 // Logo
 .logo {
   @include media-query($on-mobile) {
@@ -189,8 +209,8 @@
 
 // Author
 .author {
-  margin-top: 2.8rem;
-  margin-bottom: 7.2rem;
+  margin-top: 1.8rem;
+  margin-bottom: 2.8rem;
   text-align: center;
 
   @include media-query($on-mobile) {
@@ -198,8 +218,8 @@
   }
 
   .author-avatar {
-    width: 70px;
-    height: 70px;
+    width: 100px;
+    height: 100px;
     border-radius: 100%;
     user-select: none;
     background-color: $black;

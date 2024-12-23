@@ -12,12 +12,12 @@ comments: false
 <div style="display: flex; align-items: center;">
 
   <!-- Imagen que ocupa 4 columnas -->
-  <div style="flex: 4;">
+  <div class="sobremi-4">
     <img src="/assets/img/perfil-federico-mazzei.jpg" alt="Descripción de la imagen" style="max-width: 100%; height: auto;">
   </div>
 
   <!-- Texto que ocupa 8 columnas -->
-  <div style="flex: 8; padding-left: 1em;">
+  <div class="sobremi-8">
     <ul>
         <li>Fecha de Nacimiento: 2 Diciembre 1973</li>
         <li>Website: <a href="https://federicomazzei.com.ar" target="_blank">federicomazzei.com.ar</a> ó <a href="https://fideox.dev.ar" target="_blank"> fideo.dev.ar</a></li>

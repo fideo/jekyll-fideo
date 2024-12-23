@@ -9,7 +9,7 @@ excerpt: ''
 type: post
 id: 52117
 thumbnail: ../../../uploads/2022/02/cabeceraVim-1.jpg
-category:
+categories:
     - git
     - Linux
     - Software
@@ -21,65 +21,62 @@ tag:
     - vim
 post_format: []
 ---
+
 Dejo en el repositorio de github la configuración de VIM, acá podrás encontrar toda la configuración que utilizo para configurar mi **VIM**. Los complementos que utilizo son para el desarrollo de sitios webs y para administración de servidores.
 
-<https://github.com/fideo/vim>
+<a href="https://github.com/fideo/vim" target="_blank">https://github.com/fideo/vim</a>
 
-Dentro del repositorio git-hub que compartí en la linea de arriba pueden encontrar varios archivos pero dos son los importantes (los otros son para los videos de youtube) **.vimrc** y **.vimrc.plug** ahí está toda la configuración que uno necesita para dejar vim como se muestran en los videos de [youtube](https://www.youtube.com/@FedericoMazzei/videos) (esto puede modificarse con el paso del tiempo)
+Dentro del repositorio git-hub que compartí en la linea de arriba pueden encontrar varios archivos pero dos son los importantes (los otros son para los videos de youtube) **.vimrc** y **.vimrc.plug** ahí está toda la configuración que uno necesita para dejar vim como se muestran en los videos de <a href="https://www.youtube.com/@FedericoMazzei/videos" target="_blank">youtube</a> (esto puede modificarse con el paso del tiempo)
 
-Para que los plugins que dejo a continuación funcionen tienen que tener instalado vim-plug. Si quieren pueden buscar la información oficial de como se instala este plugin, sino pueden ejecutar este comando estando parados en la raiz de su home.
+Para que los plugins que dejo a continuación funcionen tienen que tener instalado vim-plug. Si quieren pueden buscar la información oficial de como se instala este plugin, sino pueden ejecutar este comando estando parados en la raíz de su home.
 
 ```
-<pre class="wp-block-code">```
 cd ~
-```
 ```
 
 Luego ejecutan esto en la linea de comando
 
 ```
-<pre class="wp-block-code">```
 curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
     https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
-```
 ```
 
 > IMPORTANTE!!!
 > 
-> <cite>Seguramente cuando termines de instalar todo lo anterior te vas a encontrar con un mensaje de error de vim-youcompleteme no te preocupes, [en este link de dejo como solucionarlo.](https://www.federicomazzei.com.ar/blog/2023/03/vim-youcompleteme/)</cite>
+> <cite>Seguramente cuando termines de instalar todo lo anterior te vas a encontrar con un mensaje de error de vim-youcompleteme no te preocupes, [en este link de dejo como solucionarlo.](/2023/03/vim-youcompleteme/)</cite>
 
 Estos son algunos de los complementos que tengo instalado en mi **VIM** que utilizo habitualmente:
 
-[‘vim-airline/vim-airline’](https://github.com/vim-airline)  
+<a href="https://github.com/vim-airline" target="_blank">‘vim-airline/vim-airline’</a>  
   
-[‘vim-airline/vim-airline-themes’](https://github.com/vim-airline/vim-airline-themes)  
+<a href="https://github.com/vim-airline/vim-airline-themes" target="_blank">‘vim-airline/vim-airline-themes’</a>  
   
-[‘nanotech/jellybeans.vim’](https://github.com/nanotech/jellybeans.vim)  
+<a href="https://github.com/nanotech/jellybeans.vim" target="_blank">‘nanotech/jellybeans.vim’</a>  
   
-[‘scrooloose/nerdtree’](https://github.com/preservim/nerdtree)  
+<a href="https://github.com/preservim/nerdtree" target="_blank">‘scrooloose/nerdtree’</a>  
   
-[‘ryanoasis/vim-devicons’](https://github.com/ryanoasis/vim-devicons)  
+<a href="https://github.com/ryanoasis/vim-devicons" target="_blank">‘ryanoasis/vim-devicons’</a>  
   
-[‘jiangmiao/auto-pairs’](https://github.com/jiangmiao/auto-pairs)  
+<a href="https://github.com/jiangmiao/auto-pairs" target="_blank">‘jiangmiao/auto-pairs’</a>  
   
-[‘alvan/vim-closetag’](https://github.com/alvan/vim-closetag)  
+<a href="https://github.com/alvan/vim-closetag" target="_blank">‘alvan/vim-closetag’</a>  
   
-[‘tpope/vim-surround’](https://github.com/tpope/vim-surround)  
+<a href="https://github.com/tpope/vim-surround" target="_blank">‘tpope/vim-surround’</a>  
   
-[‘valloric/youcompleteme’](https://github.com/ycm-core/YouCompleteMe)  
+<a href="https://github.com/ycm-core/YouCompleteMe" target="_blank">‘valloric/youcompleteme’</a>  
   
-[‘honza/vim-snippets’](https://github.com/honza/vim-snippets)  
+<a href="https://github.com/honza/vim-snippets" target="_blank">‘honza/vim-snippets’</a>  
   
-[‘othree/javascript-libraries-syntax.vim’](https://github.com/othree/javascript-libraries-syntax.vim)  
+<a href="https://github.com/othree/javascript-libraries-syntax.vim" target="_blank">‘othree/javascript-libraries-syntax.vim’</a>  
   
-[‘mattn/emmet-vim’](https://github.com/mattn/emmet-vim)  
+<a href="https://github.com/mattn/emmet-vim" target="_blank">‘mattn/emmet-vim’</a>  
   
-[‘SirVer/ultisnips’](https://github.com/SirVer/ultisnips)  
+<a href="https://github.com/SirVer/ultisnips" target="_blank">‘SirVer/ultisnips’</a>  
   
-[‘yggdroot/indentline’](https://github.com/Yggdroot/indentLine)  
+<a href="https://github.com/Yggdroot/indentLine" target="_blank">‘yggdroot/indentline’</a>  
   
-[‘tpope/vim-fugitive’](https://github.com/tpope/vim-fugitive)  
+<a href="https://github.com/tpope/vim-fugitive" target="_blank">‘tpope/vim-fugitive’</a>  
   
-[‘airblade/vim-gitgutter’](https://github.com/airblade/vim-gitgutter)
+<a href="https://github.com/airblade/vim-gitgutter" target="_blank">‘airblade/vim-gitgutter’</a>
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="281" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/UlX5b6NDet8?feature=oembed" title="Comparto la configuración de VIM" width="500"></iframe></div></figure>
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="350" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/UlX5b6NDet8?feature=oembed" title="Comparto la configuración de VIM" width="100%"></iframe>

@@ -9,7 +9,7 @@ excerpt: ''
 type: post
 id: 52115
 thumbnail: ../../../uploads/2022/02/cabeceraVim-1.jpg
-category:
+categories:
     - Linux
     - Software
 tag:
@@ -27,9 +27,7 @@ esto se debe a que tu complemento YouCompleteMe necesita ser reinstalado.
 Es tan simple como posisionarse dentro del directorio de instalación de YouCompleteMe en mi caso /home/fideo/.vim/plugged/youcompleteme y ejecutar esto
 
 ```
-<pre class="wp-block-code">```
 python install.py
-```
 ```
 
 Esto hará el proceso de instalación y corrige todas las librerías y dependencias que necesita para que se ejecute correctamente el complemento.

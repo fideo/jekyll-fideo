@@ -30,25 +30,19 @@ Si terminaste de instalar Linux y no te funciona el Wi-Fi tenes que realizar los
 Antes de empezar a ejecutar los comandos que siguen a continuación tenemos que conseguir una conexión por cable de red para poder ejecutar algunos comando y descargar algunos componentes desde internet. Luego de conectarnos a la red de internet con cable lo primero que vamos a realizar es ejecutar la actualización de los repositorios; para esto ejecutamos este comando
 
 ```
-<pre class="wp-block-code">```
 sudo apt update
-```
 ```
 
 Primero instalamos net-tools porque mas que seguro que no funcione porque en la mayoría de las distribuciones linux no viene instalado por defecto. Para esto tenes que ejecutar el siguiente comando.
 
 ```
-<pre class="wp-block-code">```
 sudo apt install net-tools
-```
 ```
 
 Una vez que está instalado ejecutamos el comando ifconfig
 
 ```
-<pre class="wp-block-code">```
 ifconfig
-```
 ```
 
 Este comando nos mostrará o no el nombre de nuestro controlador Wi-Fi; si no lo muestra no te preocupes ya que el firmware que se instalará luego es un genérico y servirá para la gran mayoría de los controladores de Wi-Fi.
@@ -56,33 +50,29 @@ Este comando nos mostrará o no el nombre de nuestro controlador Wi-Fi; si no lo
 Luego tenemos que eliminar el paquete bcmwl-kernel-source este paquete debe ser eliminado para poder instalar el nuevo firmware; para esto ejecutamos el comando
 
 ```
-<pre class="wp-block-code">```
 sudo apt remove bcmwl-kernel-source
-```
 ```
 
 Una vez que haya terminado de removerlo se procede con la instalación del firmware Broadcom que nos servirá para tener un controlador de Wi-Fi genérico
 
 ```
-<pre class="wp-block-code">```
 sudo apt install firmware-b43-installer
-```
 ```
 
 Luego de instalar el firmware-b43-installer tenes que reiniciar la PC para eso ejecutamos este comando
 
 ```
-<pre class="wp-block-code">```
 sudo reboot
-```
 ```
 
 Listo al reiniciar la PC deberías tener ya el ícono de Wi-Fi en la barra de tareas que te mostrará todas las señales de Wi-Fi captadas por tu controlador.
 
 ***Enjoy!!!***
 
+```
 sudo apt install net-tools  
 sudo apt update  
 sudo apt remove bcmwl-kernel-source  
 sudo apt install firmware-b43-installer  
 sudo reboot
+```

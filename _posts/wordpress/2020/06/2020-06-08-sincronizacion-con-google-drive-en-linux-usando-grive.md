@@ -14,28 +14,29 @@ category:
 tag: []
 post_format: []
 ---
-Para poder tener sincronizado los archivos que tenes en tu google drive localmente en tu PC
 
-Lo saqué de el baúl del programador que el autor de esa nota a su vez lo sacó de una página que al momento de escribir esta nota da error 404, es decir no existe.
+Para poder tener sincronizado los archivos que tienes en tu google drive localmente en tu PC
+
+Lo saqué del baúl del programador que el autor de esa nota a su vez lo sacó de una página que al momento de escribir esta nota da error 404, es decir no existe.
 
 Lo primero que necesitamos es instalar grive  
 Para esto si estamos con la distribución de Ubuntu
 
 ```
-<pre class="wp-block-preformatted">$ sudo add-apt-repository ppa:nilarimogard/webupd8
+$ sudo add-apt-repository ppa:nilarimogard/webupd8
 $ apt-get update
 $ apt-get install grive
 ```
 
-una vez instalado creamos un directorio donde va a guardar toda la información que tenemos o sincronizaremos con google drive, para esto yo hice
+Una vez instalado creamos un directorio donde va a guardar toda la información que tenemos o sincronizaremos con google drive, para esto yo hice
 
 ```
-<pre class="wp-block-preformatted">$ mkdir ~/Drive
+$ mkdir ~/Drive
 $ cd ~/Drive
 $ grive -a
 ```
 
-con mkdir ~/Drive creo un directorio dentro de mi home “user” que se llame Drive, luego entro a ese directorio con cd ~/Drive y por último ejecuto el comando grive -a que este comando sirve para generar los permisos necesarios para poder utilizar la cuenta de google drive con grive.
+Con mkdir ~/Drive creo un directorio dentro de mi home “user” que se llame Drive, luego entro a ese directorio con cd ~/Drive y por último ejecuto el comando grive -a que este comando sirve para generar los permisos necesarios para poder utilizar la cuenta de google drive con grive.
 
 > Acá es donde a veces nos encontramos con un problema que no nos podemos autentificar contra google drive ya que nos dá un error, el cual nos informa que NO tiene permisos o NO se encuentra disponible.
 > 
@@ -46,5 +47,5 @@ Para solucionar esto lo que hice fue lo siguiente, entré al repositorio oficial
 Una vez realizado esos pasos cree un cron que llamara directamente a grive con el y quedaría algo así:
 
 ```
-<pre class="wp-block-preformatted">grive --id --secret
+grive --id --secret
 ```

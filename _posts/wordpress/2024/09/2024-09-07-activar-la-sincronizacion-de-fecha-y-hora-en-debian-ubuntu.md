@@ -47,12 +47,14 @@ Luego de instalar este comando volví a consultar con el comando `sudo timedatec
 
 También se puede observar esto haciendo botón derecho sobre el reloj en la barra de tareas, ajustar fecha y hora y debería estar con tilde Poner fecha y hora automáticamente.
 
-![Activar la sincronización de Fecha y Hora en Debian Ubuntu](/_posts/uploads/2024/09/fechayhoraautomaticamente.png)Si antes de realizar estos pasos observamos esta misma pantalla podemos ver que esa tilde aparece desactivada porque no está instalado el systemd-timesyncd
+![Activar la sincronización de Fecha y Hora en Debian Ubuntu](/assets/uploads/2024/09/fechayhoraautomaticamente.png)
+
+Si antes de realizar estos pasos observamos esta misma pantalla podemos ver que esa tilde aparece desactivada porque no está instalado el systemd-timesyncd
 
 Espero que hayas podido activar la sincronización de Fecha y Hora en Debian Ubuntu
 
 Se puede encontrar más información sobre linux en este mismo blog o envíeme un mail o puedes encontrarme en las redes sociales.
 
-[Te invito a que te suscribas a mi canal de YouTube donde publico contenido sobre Linux y temas a fines a este.](https://bit.ly/suscribiteamicanalYouTube)
+<a href="https://bit.ly/suscribiteamicanalYouTube" target="_blank">Te invito a que te suscribas a mi canal de YouTube donde publico contenido sobre Linux y temas a fines a este.</a>
 
-[Mas notas sobre linux](https://www.federicomazzei.com.ar/blog/tag/linux/)
+[Mas notas sobre linux](/tags/#linux)

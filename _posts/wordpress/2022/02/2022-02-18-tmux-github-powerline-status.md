@@ -28,9 +28,12 @@ ao_post_optimize:
 footnotes:
     - ''
 ---
+
 Tmux github powerline status. Cree un repositorio en github para publicar mi configuración de Tmux; también la configuración de powerline y el .bashrc de mi PC por si alguien quiere usar esta configuración.
 
-<figure class="wp-block-image size-large is-resized">![Pantalla de Tmux donde se muestran tres promp de linux en una sola ventana.](https://raw.githubusercontent.com/fideo/tmux.conf/main/asset/TerminalMultiplexer.png)</figure>Este es el la dirección en github del repositorio desde ahí se puede descargar y/o clonar <https://github.com/fideo/tmux.conf>
+![Pantalla de Tmux donde se muestran tres promp de linux en una sola ventana.](https://raw.githubusercontent.com/fideo/tmux.conf/main/asset/TerminalMultiplexer.png)
+
+Este es el la dirección en github del repositorio desde ahí se puede descargar y/o clonar <a href="https://github.com/fideo/tmux.conf" target="_blank">https://github.com/fideo/tmux.conf</a>
 
 Hay que crear en el home de su usuario (en mi caso /home/fideo/) el archivo .tmux.conf y copiar el contenido de lo que publiqué en github o directamente descargarlo pegarlo en su home.
 
@@ -38,37 +41,31 @@ La primera vez que iniciamos tmux debemos ejecutar el prefix (prefijo) Ctrl+B y 
 
 Al usar Tmux y ejecutar el prefix (prefijo) Ctrl+B es el que viene por defecto para Tmux se activa un ícono mostrando que se ha introducido el prefijo. Este ícono está en la parte inferior izquierda representado con un círculo y al ejecutar el prefix (Ctrl+B) se llena o completa ese círculo.
 
-Para que se vean los íconos correctamente tenes que tener instalado las tipografìas que ofrece [Nerd fonts](https://www.nerdfonts.com/). (instalá todas las que creas necesarias 🙂 )
+Para que se vean los íconos correctamente tenés que tener instalado las tipografías que ofrece <a href="https://www.nerdfonts.com/" target="_blank">Nerd fonts</a>. (instala todas las que creas necesarias 🙂)
 
-Para poder tener la consola de linux como se ve arriba primero tenes que tener instalado [powerline](https://powerline.readthedocs.io/en/master/), para los que usamos ubuntu o distribuciones derivadas de debian o debian es tan simple como ejecutar`:`
+Para poder tener la consola de linux como se ve arriba primero tenés que tener instalado <a href="https://powerline.readthedocs.io/en/master/" target="_blank">powerline</a>, para los que usamos ubuntu o distribuciones derivadas de debian o debian es tan simple como ejecutar`:`
 
 ```
-<pre class="wp-block-code">```
 sudo apt install powerline
-
-```
 ```
 
 Instalar otros componentes importantes
 --------------------------------------
 
-Para que se vea colorizado como el lado izquierdo de la imágen se debe tener instalado [exa](https://the.exa.website/)
+Para que se vea con colores como el lado izquierdo de la imágen se debe tener instalado <a href="https://the.exa.website/" target="_blank">exa</a>
 
 ```
-<pre class="wp-block-code">```
 sudo apt install exa
-
-```
 ```
 
-Yo configué un alias dentro de mi .bashrc que ejecute exa -alFh esto hará que muestre la salida como se ve en la imagen ustedes pueden armar sus propios alias ayudandose de las opciones de comandos que se muetran en el sitio de [exa](https://the.exa.website/).
+Configuré un alias dentro de mi .bashrc que ejecute exa -alFh esto hará que muestre la salida como se ve en la imagen ustedes pueden armar sus propios alias ayudándose de las opciones de comandos que se muestran en el sitio de <a href="https://the.exa.website/" target="_blank">exa</a>).
 
-Tmux github powerline status, también tienen que tener instalado [bat](https://github.com/sharkdp/bat) que mejora la salida de cat y lo integra con git.
+Tmux github powerline status, también tienen que tener instalado <a href="https://github.com/sharkdp/bat" target="_blank">bat</a> que mejora la salida de cat y lo integra con git.
 
 Te muestra el estado de tu CPU, la temperatura del microprocesador y el porcentaje de memoria RAM utilizada; también las cantidades de bytes subidos y descargados.
 
 Los leo en los comentarios por si tiene alguna duda o sugerencia.
 
-Pasen por [mi canal de YouTube que tengo videos usando esta configuración.](https://bit.ly/suscribiteamicanalYouTube)
+Pasen por <a href="https://bit.ly/suscribiteamicanalYouTube" target="_blank">mi canal de YouTube que tengo videos usando esta configuración.</a>
 
-[Ver mas post sobre linux](http://federicomazzei.com.ar/blog/tag/linux)
+<a href="http://federicomazzei.com.ar/blog/tag/linux" target="_blank">Ver mas post sobre linux</a>

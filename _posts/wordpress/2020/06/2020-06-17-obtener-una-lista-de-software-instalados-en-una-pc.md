@@ -19,16 +19,17 @@ tag:
     - software
 post_format: []
 ---
-Si deseamos obtener una lista de todos los software que tenemos instalados en una pc solo basta con correr este comando a continuación y nos generará un archivo de salida ubicado en nuestra raiz del disco C. Obviamente se puede modificar esto para que lo escriba en donde uno lo necesite.
+
+Si deseamos obtener una lista de todos los software que tenemos instalados en una pc solo basta con correr este comando a continuación y nos generará un archivo de salida ubicado en nuestra raíz del disco C. Se puede modificar esto para que lo escriba en donde uno lo necesite.
 
 ```
-<pre class="wp-block-preformatted">wmic product get name"," version| out-File "C:\lista_productos_instalados.txt"
+wmic product get name"," version| out-File "C:\lista_productos_instalados.txt"
 ```
 
 Si quisiéramos tener también una lista de todos los servicios que están corriendo en una PC deberíamos utilizar este comando a continuación; el cual nos genera un archivo txt con la lista de todos los servicios encontrados.
 
 ```
-<pre class="wp-block-preformatted">wmic service get name"," startname| out-File "C:\lista_servicios_corriendo.txt"
+wmic service get name"," startname| out-File "C:\lista_servicios_corriendo.txt"
 ```
 
 ***Enjoy!!!***

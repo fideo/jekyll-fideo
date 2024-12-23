@@ -19,17 +19,18 @@ post_format: []
 footnotes:
     - ''
 ---
+
 En este post dejo un código de docker compose que te permite levantar un docker con wordpress que usa una base de datos mysql y para poder administrarla usar el phpmyadmin.
 
 Esto es muy recomendable para aquellos desarrolladores que tienen que estar levantando ambientes de desarrollos con distintas versiones de wordpress ó mysql ya sea para actualizarlas o para probar algo en particular.
 
 En lo particular me sirve mucho para dejar reflejado en un ambiente local tal cual las características que tiene el sitio en producción; es decir que si el sitio de un cliente tiene en producción wordpress 5 mientras ya está vigente la versión 6 yo puedo seguir manteniendo esa versión ya sea para luego actualizarla o por resguardo (backup)  
-Lo mismo pasa con las bases de datos si hay varias versiones y tal vez algunas tengan algunas características mas o menos dependiendo de la versión y con esto podemos reflejar exactamente lo mismo que tenemos en producción.
+Lo mismo pasa con las bases de datos si hay varias versiones y tal vez algunas tengan algunas características más o menos dependiendo de la versión y con esto podemos reflejar exactamente lo mismo que tenemos en producción.
 
-[Dejo el código fuente de este docker en mi repositorio de github](https://github.com/fideo/docker-compose-wordpress/)
+<a href="https://github.com/fideo/docker-compose-wordpress/" target="_blank">Dejo el código fuente de este docker en mi repositorio de github</a>
 
 ```
-<pre class="wp-block-preformatted">  1 version: "3"
+  1 version: "3"
   2 networks:
   3     fideo-wordpress-net:
   4         driver: bridge
@@ -87,39 +88,43 @@ También recomiendo poner a tu usuario dentro del grupo root esto evitará algun
 editar con este comando
 
 ```
-<pre class="wp-block-preformatted">sudo /usr/sbin/visudo
+sudo /usr/sbin/visudo
 ```
 
 Luego buscamos donde dice root ALL=(ALL:ALL) ALL y agregamos nuestro usuario me manejamos habitualmente y lo dejamos así:
 
 ```
-<pre class="wp-block-preformatted"># User privilege specification 
+# User privilege specification 
 root  ALL=(ALL:ALL) ALL 
 nombreusuario ALL=(ALL:ALL) ALL
 ```
 
-<div aria-hidden="true" class="wp-block-spacer" style="height:2rem"></div>Levantando nuestro Docker
+Levantando nuestro Docker
 -------------------------
 
 Una vez que tengamos esto tenemos que probar nuestro docker compose ejecutando lo siguiente:
 
 ```
-<pre class="wp-block-preformatted">docker compose up 
+docker compose up 
 ```
 
 recordemos que podemos utilizar el parámetro -d para dejarlo que corra en background **docker compose up -d**
 
-### [Para ver mas post sobre docker te invito a que sigas leyendo mi blog haciendo click acá.](http://federicomazzei.com.ar/blog/category/docker/)
+### [Para ver mas post sobre docker te invito a que sigas leyendo mi blog haciendo click acá.](/tags/#docker)
 
-<div aria-hidden="true" class="wp-block-spacer" style="height:2rem"></div>Aumentar el tamaño de subida de archivos a PhpMyAdmin
+Aumentar el tamaño de subida de archivos a PhpMyAdmin
 -----------------------------------------------------
 
-Seguramente si estas trabajando con sitios de wordpress vas a necesitar subir archivos superiores a 2MB que es lo que viene por defecto en PhpMyAdmin; para esto tenes que crear un archivo que se llame **uploads.ini** y que contenga lo siguiente:
+Seguramente si estás trabajando con sitios de wordpress vas a necesitar subir archivos superiores a 2MB que es lo que viene por defecto en PhpMyAdmin; para esto tenes que crear un archivo que se llame **uploads.ini** y que contenga lo siguiente:
 
 ```
-<pre class="wp-block-preformatted">file_uploads = On<br></br>memory_limit = 500M<br></br>upload_max_filesize = 500M<br></br>post_max_size = 500M<br></br>max_execution_time = 600
+file_uploads = On
+memory_limit = 500M
+upload_max_filesize = 500M
+post_max_size = 500M
+max_execution_time = 600
 ```
 
-Luego volves a levantar el docker compose y listo ya podes subir archivos de hasta 500M
+Luego se vuelve a levantar el docker compose y listo ya se podría subir archivos de hasta 500M
 
 Espero que te sirva y si te sirvió no te olvides de dejarme un comentario 🙂

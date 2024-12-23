@@ -28,38 +28,32 @@ Si estas trantando de usar AnyDesk en linux y te arroja un mensaje de error como
 
 ***No se admite el servidor remoto de pantalla wayland***
 
-Es porque hay que colocar en **false** la opción WaylandEnable que se encuentra en /etc/gdm3/custom.conf esto te permitirá conecactarte a esa máquina cliente; es decir que la modificación de /etc/gdm3/custom.conf hay que hacerla en la PC que queremos conectarnos.
+Es porque hay que colocar en **false** la opción WaylandEnable que se encuentra en `/etc/gdm3/custom.conf` esto te permitirá conectarte a esa máquina cliente; es decir que la modificación de `/etc/gdm3/custom.conf` hay que hacerla en la PC que queremos conectarnos.
 
 Para eso tiene que abrir tu consola en modo administrador / sudo y editar ese archivo, en mi caso yo uso vim asi que sería así:
 
 ```
-<pre class="wp-block-code">```
 sudo vim /etc/gdm3/custom.conf
-```
 ```
 
 Luego buscás donde dice
 
 ```
-<pre class="wp-block-code">```
 #WaylandEnable=false
 ```
-```
 
-Lo descomentás para que quede activo dentro del archivo pero con el parámetro false y esto te permitirá usar AnyDesk sin problemas 😉
+Lo descomentás para que quede activo dentro del archivo, pero con el parámetro false y esto te permitirá usar AnyDesk sin problemas 😉
 
 Una vez que terminas de editarlo hay que reiniciar el servicio gdm3 para eso ejecutamos el siguiente comando
 
 ```
-<pre class="wp-block-code">```
 sudo systemctl restart gdm3
-```
 ```
 
 Luego de reiniciado el servicio no debería aparecerte el mensaje de error de conexión en AnyDesk por wayland
 
 Si por algún motivo necesitas usarlo solo basta con cambiar el valor a true.
 
-[Ver mas posts sobre Ubuntu](http://federicomazzei.com.ar/blog/tag/ubuntu/)
+[Ver mas posts sobre Ubuntu](/tags/#ubuntu)
 
 ***Enjoy!!!***

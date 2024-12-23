@@ -20,23 +20,24 @@ post_format: []
 ao_post_optimize:
     - 'a:5:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";}'
 ---
+
 Tengo un servidor con lo manejo con CWP (Centos Web Panel) y en los logs vi un error como este
 
 ```
-<pre class="wp-block-preformatted">ERROR: Can't create temporary directory /var/lib/clamav/
+ERROR: Can't create temporary directory /var/lib/clamav/
 ```
 
 Estuve investigando un poco como corregirlo y me dí cuenta que era problemas de permisos; al ejecutar
 
 ```
-<pre class="wp-block-preformatted">sudo freshclam
+sudo freshclam
 ```
 
-Esto debería realizar una actualización de la base de datos del antivirus; pero por no tener bien asignados los permisos me daba ese error. Cuando listaba el contenido del directorio /var/lib/clamav/ me mostraba que existen dos tipos de usarios clamupdate y clamscan.  
-Lo que hice fue probar primero con el usuario clamupdate y volver a ejecutar sudo freshclam y esto me mostró el mismo error; entonces luego probé con el otro usuario clamupdate y volví a probar y ahí funcionó correctamente.
+Esto debería realizar una actualización de la base de datos del antivirus; pero por no tener bien asignados los permisos me daba ese error. Cuando estaba el contenido del directorio `/var/lib/clamav/` me mostraba que existen dos tipos de usuarios `clamupdate` y `clamscan`.  
+Lo que hice fue probar primero con el usuario `clamupdate` y volver a ejecutar `sudo freshclam` y esto me mostró el mismo error; entonces luego probé con el otro usuario `clamupdate` y volví a probar y ahí funcionó correctamente.
 
 ```
-<pre class="wp-block-preformatted">sudo chown clamupdate:clamupdate /var/lib/clamav/
+sudo chown clamupdate:clamupdate /var/lib/clamav/
 ```
 
 Con este último comando logré solucionar el problema.

@@ -28,16 +28,16 @@ Pero este post no trata de hablar de historia de Vim sino de lo que se puede hac
 Realizar una búsqueda sin importar si el texto a buscar está en mínuscula o mayúscula.
 
 ```
-<pre class="wp-block-preformatted">:/texto a buscar\c
+:/texto a buscar\c
 ```
 
   
-el resultado “texto a buscar” puede estar escrito así “TexTo A BuScar” que lo va a encontrar igual
+El resultado “texto a buscar” puede estar escrito así “TexTo A BuScar” que lo va a encontrar igual
 
-Agregar texto al inicio de varias lineas
+Agregar texto al inicio de varias líneas
 
 ```
-<pre class="wp-block-preformatted">Ctrl+v para iniciar el bloque visual, luego presionamos Shift+I para ingresar el texto que querramos, por ejemplo #  para agregar un comentario, luego presionamos la tecla ESC (escape) y listo se completa toda la linea seleccionada con lo que escribimos.
+Ctrl+v para iniciar el bloque visual, luego presionamos Shift+I para ingresar el texto que querramos, por ejemplo #  para agregar un comentario, luego presionamos la tecla ESC (escape) y listo se completa toda la linea seleccionada con lo que escribimos.
 ```
 
 Resúmenes de Vimtutor
@@ -45,7 +45,7 @@ Resúmenes de Vimtutor
 Dejo aquí abajo un resúmen que muestra vimtutor al terminar las lecciones. Recomiendo que realicen este tutorial a todas aquellas personas que se sientan frente a vim por primera vez o que no están muy familiarizados con él.
 
 ```
-<pre class="wp-block-preformatted">~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 			    RESUMEN DE LA LECCIÓN 1
 
 
@@ -175,7 +175,7 @@ Ahora continúe con la Lección 2.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ```
 
-<div aria-hidden="true" class="wp-block-spacer" style="height:46px"></div>Lista de reproducción de VIM editor de texto mejorado.
+Lista de reproducción de VIM editor de texto mejorado.
 ------------------------------------------------------
 
-<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="281" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/videoseries?list=PLEwU9ammVfH8b0g6pRuV6OggPw0Mxuhqm" title="Episodios VIM" width="500"></iframe></div></figure>
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="350" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/videoseries?list=PLEwU9ammVfH8b0g6pRuV6OggPw0Mxuhqm" title="Episodios VIM" width="100%"></iframe>

@@ -25,31 +25,25 @@ Obviamente que por pantalla gráfica esto es muy fácil de hacer pero el problem
 En principio tenemos que tener instalado el **p7zip** si no lo tenes instalado en Ubuntu o linux derivados de Debian se instala así:
 
 ```
-<pre class="wp-block-code">```
 sudo apt-get install p7zip-full
-```
 ```
 
 Si ya lo tenes instalado lo único que tenes que hacer es especificar la cantidad de MB (Mega Bytes) en la que queres partir tu directorio o tu archivo. En mi ejemplo yo lo realizo con un archivo .iso y para eso ejecuto la siguiente linea.
 
 ```
-<pre class="wp-block-code">```
 7z a -v 500m -tzip ARCHIVO.zip ARCHIVO.iso
 ```
-```
 
-Una vez ejecutada se podrá ver en el directorio destinon las N cantidad de partes de archivos .zip que fué generando de 500MB hasta completar el total del archivo .iso
+Una vez ejecutada se podrá ver en el directorio destino las N cantidad de partes de archivos .zip que fué generando de 500MB hasta completar el total del archivo .iso
 
 Si quisieramos realizar una compresión en varios archivos de un directorio el comando a utilizar sería algo así:
 
 ```
-<pre class="wp-block-code">```
 7z a -v500m -tzip archivo.zip miDirectorio/*
 ```
-```
 
-El archivos.zip tendrá varias partes de 500MB según lo que pese el directorio a comprimir y partir
+Los archivos.zip tendrá varias partes de 500MB según lo que pese el directorio a comprimir y partir
 
-[Podes ver mas ejemplos de lineas de comandos en este link](https://www.federicomazzei.com.ar/blog/tag/comandos/)
+[Podes ver mas ejemplos de lineas de comandos en este link](/tags/#comandos/)
 
-[O podes buscar mas ayuda en el manual oficial de p7zip](https://www.7-zip.org/faq.html)
+<a href="https://www.7-zip.org/faq.html" target="_blank">O podes buscar mas ayuda en el manual oficial de p7zip</a>

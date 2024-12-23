@@ -27,7 +27,9 @@ Entonces el comando para pasar de una linea completa de minúscula a mayúscula 
 
 Les dejo un video que publiqué en YouTube donde muestro como convertir texto de minúscula a MAYÚSCULA en Vim.
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="281" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/67I9Y5bw2o0?feature=oembed" title="Cambiar texto a minúscula o MAYÚSCULA en VIM" width="500"></iframe></div></figure>[Podés ver mas videos sobre vim en este enlace presionando acá.](https://youtube.com/playlist?list=PLEwU9ammVfH8b0g6pRuV6OggPw0Mxuhqm&si=miXN869jnHjbhiS6)
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="281" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/67I9Y5bw2o0?feature=oembed" title="Cambiar texto a minúscula o MAYÚSCULA en VIM" width="100%"></iframe>
+
+<a href="https://youtube.com/playlist?list=PLEwU9ammVfH8b0g6pRuV6OggPw0Mxuhqm&si=miXN869jnHjbhiS6" target="_blank">Podés ver mas videos sobre vim en este enlace presionando acá.</a>
 
 Si queres ver mas publicaciones sobre vim te dejo el link a las entradas con etiquetas de vim:  
-<https://www.federicomazzei.com.ar/blog/tag/vim>
+[VIM](/tags/#vim)
